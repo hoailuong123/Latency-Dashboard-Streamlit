@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  api:
+    build: ./api
+    container_name: mobile_vlm_api
+    ports:
+      - "8000:8000"
+    volumes:
+      # share the latency log file from the repo root into the API container
+      - ./latency_logs.csv:/app/latency_logs.csv:rw
+      - ./api:/app
+    restart: unless-stopped
+
+  dashboard:
+    build: ./dashboard
+    container_name: mobile_vlm_dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      # same host file mounted into the dashboard container
+      - ./latency_logs.csv:/app/latency_logs.csv:rw
+      - ./dashboard:/app
+    depends_on:
+      - api
+    restart: unless-stopped
