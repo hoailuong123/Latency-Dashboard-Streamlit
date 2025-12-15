@@ -1,0 +1,3926 @@
+{
+  "request_id": "1765787547979",
+  "battery_percentage": 100,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 13361,
+  "device_temperature": 0,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "run_id": 1
+}
+
+{
+  "request_id": "1765787566111",
+  "battery_percentage": 100,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 13843,
+  "device_temperature": 0,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "run_id": 1
+}
+
+{
+  "request_id": "1765787584970",
+  "battery_percentage": 100,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 14546,
+  "device_temperature": 1,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 15831,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 1,
+  "request_id": "1765787605465",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 16475,
+  "crash_log": "",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 100,
+  "device_temperature": 1,
+  "request_id": "1765787626779",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 16806,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 1,
+  "request_id": "1765787648496",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 16971,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 1,
+  "request_id": "1765787670444",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 17000,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 1,
+  "request_id": "1765787692442",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 17001,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 1,
+  "request_id": "1765787714445",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 17095,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 1,
+  "request_id": "1765787736541",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 17599,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "request_id": "1765787759212",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18028,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "request_id": "1765787782511",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18170,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "request_id": "1765787806054",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18362,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "request_id": "1765787829833",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18441,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "request_id": "1765787853746",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18561,
+  "crash_log": "",
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "request_id": "1765787877804",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765787902281",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "latency_ms": 18905,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765787927067",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19122,
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "device_temperature": 2,
+  "user_feedback": "",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765787951996",
+  "latency_ms": 19195,
+  "battery_percentage": 100,
+  "run_id": 1
+}
+
+{
+  "device_temperature": 2,
+  "user_feedback": "",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765787977166",
+  "latency_ms": 19366,
+  "battery_percentage": 100,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "device_temperature": 2,
+  "crash_log": "",
+  "request_id": "1765788002559",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "latency_ms": 19571,
+  "battery_percentage": 100,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 19616,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788028057",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 19427,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788053369",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 19852,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788079229",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20003,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788105167",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 19946,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788131063",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788157120",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20066,
+  "app_version": "1.0",
+  "battery_percentage": 100,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20127,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788183469",
+  "battery_percentage": 100,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "battery_percentage": 100,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20396,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788210001",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20413,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788236571",
+  "device_temperature": 2,
+  "battery_percentage": 100,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20108,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788262870",
+  "device_temperature": 2,
+  "battery_percentage": 100,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20427,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788289692",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "battery_percentage": 95,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 20467,
+  "request_id": "1765788312555",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 19877,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788338532",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 17029,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788361051",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765788382343",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 95,
+  "latency_ms": 16487,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765788404251",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 95,
+  "latency_ms": 16759,
+  "run_id": 1
+}
+
+{
+  "device_temperature": 2,
+  "user_feedback": "",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788423776",
+  "latency_ms": 15149,
+  "battery_percentage": 95,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 15623,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 95,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788444122",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765788465037",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 95,
+  "latency_ms": 16123,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 16630,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 95,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765788486547",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788508685",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 17149,
+  "app_version": "1.0",
+  "battery_percentage": 95,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 17900,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788531754",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "latency_ms": 18325,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788555416",
+  "device_temperature": 2,
+  "battery_percentage": 95,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765788579434",
+  "latency_ms": 18542,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 95,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788603802",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18774,
+  "app_version": "1.0",
+  "battery_percentage": 95,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18785,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 95,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765788628183",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "latency_ms": 18755,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788652520",
+  "device_temperature": 2,
+  "battery_percentage": 95,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788676898",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18796,
+  "app_version": "1.0",
+  "battery_percentage": 95,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 18922,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788701443",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 18938,
+  "request_id": "1765788726011",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "device_temperature": 2,
+  "user_feedback": "",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788750595",
+  "latency_ms": 18937,
+  "battery_percentage": 95,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 18784,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 95,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788774997",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18740,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788799304",
+  "device_temperature": 2,
+  "battery_percentage": 95,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 18825,
+  "request_id": "1765788823723",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 18727,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765788848046",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765788872227",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 95,
+  "latency_ms": 18640,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "battery_percentage": 95,
+  "device_temperature": 2,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 18718,
+  "request_id": "1765788896507",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "device_temperature": 2,
+  "user_feedback": "",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788920846",
+  "latency_ms": 18720,
+  "battery_percentage": 95,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18701,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 90,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765788945127",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 18691,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 90,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765788969369",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765788993564",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "latency_ms": 18659,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 18654,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789017754",
+  "battery_percentage": 90,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765789041935",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "latency_ms": 18649,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18642,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789066097",
+  "device_temperature": 2,
+  "battery_percentage": 90,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765789090204",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18578,
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 18578,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789114289",
+  "battery_percentage": 90,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18626,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 90,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765789138422",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18621,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789162569",
+  "battery_percentage": 90,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765789186672",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "latency_ms": 18588,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18598,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 90,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765789210802",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765789235030",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18659,
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18691,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789259265",
+  "battery_percentage": 90,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765789283533",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 90,
+  "latency_ms": 18706,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765789307742",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "latency_ms": 18663,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765789332025",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 90,
+  "latency_ms": 18712,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18758,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789356358",
+  "battery_percentage": 90,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18780,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789380715",
+  "device_temperature": 2,
+  "battery_percentage": 90,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18755,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789405043",
+  "battery_percentage": 90,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18788,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 90,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765789429428",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765789453849",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "latency_ms": 18823,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765789478304",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 90,
+  "latency_ms": 18858,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765789502793",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 90,
+  "latency_ms": 18863,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18613,
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 90,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "request_id": "1765789527016",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765789551550",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 90,
+  "latency_ms": 18884,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765789576091",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 90,
+  "latency_ms": 18920,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765789600630",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 90,
+  "latency_ms": 18891,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18934,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 85,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765789625227",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 19015,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 85,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765789649910",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 19018,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 85,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765789674598",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 19012,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 85,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765789699280",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19139,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789724093",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19144,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789748932",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19270,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789773927",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18821,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789798363",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18855,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789822819",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18915,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789847362",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18906,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789871906",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18981,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789896533",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19012,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789921200",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19005,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789945862",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19072,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789970615",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19147,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765789995459",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790020321",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19018,
+  "app_version": "1.0",
+  "battery_percentage": 85,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19199,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 85,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790048317",
+  "run_id": 1
+}
+
+{
+  "request_id": "1765790076109",
+  "latency_ms": 18973,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 85,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 19284,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 85,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765790104290",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19259,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790132399",
+  "battery_percentage": 85,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765790160573",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 85,
+  "latency_ms": 19313,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790188796",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19301,
+  "app_version": "1.0",
+  "battery_percentage": 85,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790219749",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18999,
+  "app_version": "1.0",
+  "battery_percentage": 85,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 19311,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 85,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765790251146",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19632,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790282803",
+  "device_temperature": 2,
+  "battery_percentage": 85,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19471,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790314378",
+  "device_temperature": 2,
+  "battery_percentage": 80,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19511,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790346006",
+  "device_temperature": 2,
+  "battery_percentage": 80,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790377700",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19396,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790406192",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19490,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790434717",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19514,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765790463120",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "latency_ms": 19448,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790488307",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19382,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765790516609",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "latency_ms": 19381,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19402,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790548050",
+  "device_temperature": 2,
+  "battery_percentage": 80,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19373,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790576323",
+  "device_temperature": 2,
+  "battery_percentage": 80,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790604602",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19377,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765790633000",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "latency_ms": 19478,
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 19124,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 80,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765790661004",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18981,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790688742",
+  "battery_percentage": 80,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18881,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790716296",
+  "device_temperature": 2,
+  "battery_percentage": 80,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18875,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 80,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790743825",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 18906,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 80,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765790771374",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790795898",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18857,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790820387",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18880,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765790844886",
+  "latency_ms": 18877,
+  "battery_percentage": 80,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 18841,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 80,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765790869337",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18834,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790893798",
+  "battery_percentage": 80,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18862,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790921279",
+  "battery_percentage": 80,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 18877,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790945780",
+  "battery_percentage": 80,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 18938,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765790970376",
+  "battery_percentage": 80,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765790994919",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18912,
+  "app_version": "1.0",
+  "battery_percentage": 80,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791019567",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 18993,
+  "app_version": "1.0",
+  "battery_percentage": 75,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765791044316",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 75,
+  "latency_ms": 19072,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19095,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791069107",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 19171,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791093987",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19124,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791118827",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19232,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791143802",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 19267,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791168823",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19343,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791193919",
+  "battery_percentage": 75,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19377,
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 75,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "request_id": "1765791219088",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791247545",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19514,
+  "app_version": "1.0",
+  "battery_percentage": 75,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 19549,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 75,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765791272933",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19491,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791301613",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 19685,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 75,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765791330360",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791356039",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19780,
+  "app_version": "1.0",
+  "battery_percentage": 75,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 19788,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791381752",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765791407655",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 75,
+  "latency_ms": 19957,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 19950,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 75,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765791433584",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20135,
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 75,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "request_id": "1765791459718",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20163,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791485918",
+  "battery_percentage": 75,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20170,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791512159",
+  "device_temperature": 2,
+  "battery_percentage": 75,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20174,
+  "crash_log": "",
+  "battery_percentage": 75,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791538416",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765791564965",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 75,
+  "latency_ms": 20302,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20461,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791594925",
+  "battery_percentage": 75,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765791621546",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 75,
+  "latency_ms": 20445,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20535,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791651656",
+  "battery_percentage": 75,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765791681974",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 75,
+  "latency_ms": 20701,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20743,
+  "crash_log": "",
+  "battery_percentage": 75,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791712384",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20852,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791743029",
+  "battery_percentage": 70,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791773731",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20916,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765791804914",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 70,
+  "latency_ms": 21330,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 21094,
+  "request_id": "1765791835916",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791867265",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 21377,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 21238,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791898647",
+  "battery_percentage": 70,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20944,
+  "request_id": "1765791929456",
+  "battery_percentage": 70,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765791960155",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20875,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20921,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765791987452",
+  "battery_percentage": 70,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20987,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 70,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792018272",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 21034,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 70,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792049188",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 21105,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765792080246",
+  "battery_percentage": 70,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "request_id": "1765792107892",
+  "latency_ms": 21181,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 70,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792135528",
+  "latency_ms": 21198,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 70,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 21086,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765792163187",
+  "battery_percentage": 70,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792190933",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 21293,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 21256,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 70,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765792218661",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 21220,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 70,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792246380",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 21239,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 70,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792274118",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 21319,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 70,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792301933",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792329828",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 21379,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 21293,
+  "request_id": "1765792357695",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 21356,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765792385593",
+  "battery_percentage": 70,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765792413469",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "latency_ms": 21327,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 21429,
+  "request_id": "1765792441454",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 70,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 21070,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 70,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792469100",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 21421,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765792497388",
+  "battery_percentage": 70,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765792525568",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 65,
+  "latency_ms": 21568,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 21650,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765792553870",
+  "battery_percentage": 65,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792582243",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 21688,
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765792610717",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 65,
+  "latency_ms": 21776,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 21738,
+  "request_id": "1765792639166",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 21821,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 65,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792667770",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765792700111",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "latency_ms": 21927,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 21987,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765792728889",
+  "battery_percentage": 65,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 21965,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 65,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792757655",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792786492",
+  "latency_ms": 22017,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 65,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765792815339",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 22028,
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "crash_log": "",
+  "device_temperature": 2,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 22133,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765792844331",
+  "battery_percentage": 65,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 21697,
+  "request_id": "1765792872913",
+  "battery_percentage": 65,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "user_feedback": "",
+  "request_id": "1765792902188",
+  "device_temperature": 2,
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 65,
+  "latency_ms": 22066,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 22261,
+  "request_id": "1765792931352",
+  "battery_percentage": 65,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792960560",
+  "latency_ms": 22285,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 65,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22372,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 65,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765792989949",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 22391,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 65,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765793019305",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 22455,
+  "request_id": "1765793048740",
+  "battery_percentage": 65,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 25367,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765793081106",
+  "battery_percentage": 65,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765793110739",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "latency_ms": 22533,
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 22586,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 65,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765793140447",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22536,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 65,
+  "crash_log": "",
+  "request_id": "1765793170051",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22676,
+  "request_id": "1765793199807",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 23313,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 65,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765793230233",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 23509,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765793260897",
+  "battery_percentage": 65,
+  "device_temperature": 2,
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22802,
+  "request_id": "1765793290875",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765793320852",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 65,
+  "latency_ms": 22826,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765793350799",
+  "latency_ms": 22802,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22806,
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 60,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765793380755",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22810,
+  "request_id": "1765793410728",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 60,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765793440766",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 60,
+  "latency_ms": 22878,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 22837,
+  "request_id": "1765793470778",
+  "battery_percentage": 60,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765793500773",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 60,
+  "latency_ms": 22830,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 22870,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765793530817",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22844,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 60,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765793560842",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 22883,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765793590902",
+  "battery_percentage": 60,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765793620965",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 60,
+  "latency_ms": 22877,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22878,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 60,
+  "crash_log": "",
+  "request_id": "1765793654936",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22920,
+  "request_id": "1765793685063",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 60,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22887,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 60,
+  "crash_log": "",
+  "request_id": "1765793715167",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765793745216",
+  "latency_ms": 22692,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 22931,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765793775384",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765793805477",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 60,
+  "latency_ms": 22868,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 22976,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765793835685",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22951,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 60,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765793865862",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765793896130",
+  "latency_ms": 23015,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765793926250",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 60,
+  "latency_ms": 22881,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 22930,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765793956385",
+  "battery_percentage": 60,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22995,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 60,
+  "crash_log": "",
+  "request_id": "1765793986601",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 22945,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 60,
+  "crash_log": "",
+  "request_id": "1765794016825",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 23079,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794047142",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 23222,
+  "battery_percentage": 60,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "crash_log": "",
+  "request_id": "1765794077857",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 21030,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794105429",
+  "device_temperature": 2,
+  "battery_percentage": 60,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20739,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 60,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765794132511",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20867,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794159643",
+  "battery_percentage": 60,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20584,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 60,
+  "crash_log": "",
+  "request_id": "1765794186512",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20370,
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794213134",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20334,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794239618",
+  "battery_percentage": 55,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20277,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 55,
+  "crash_log": "",
+  "request_id": "1765794266012",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20130,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 55,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765794295554",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20147,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794321789",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 20120,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 55,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765794347964",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20042,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 55,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765794374003",
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 19896,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 55,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765794399894",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 19706,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765794425718",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 19894,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794451565",
+  "battery_percentage": 55,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 19743,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 55,
+  "crash_log": "",
+  "request_id": "1765794477247",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19750,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765794502910",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 19878,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794528704",
+  "battery_percentage": 55,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20011,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765794554692",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20001,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 55,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765794580684",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20014,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 55,
+  "crash_log": "",
+  "request_id": "1765794606680",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 19978,
+  "crash_log": "",
+  "battery_percentage": 55,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765794632647",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 19939,
+  "request_id": "1765794658560",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 55,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20053,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794684645",
+  "battery_percentage": 55,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765794710842",
+  "latency_ms": 20147,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20252,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794737168",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765794763582",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 55,
+  "latency_ms": 20282,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20336,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794790056",
+  "device_temperature": 2,
+  "battery_percentage": 55,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20250,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 55,
+  "crash_log": "",
+  "request_id": "1765794816389",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20154,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 55,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765794842613",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20147,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765794868824",
+  "battery_percentage": 55,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "model_name": "fastvlm_7b_stage3",
+  "latency_ms": 20275,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 50,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765794895155",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765794921475",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "latency_ms": 20243,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20216,
+  "request_id": "1765794951067",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765794977432",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "latency_ms": 20277,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20299,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765795003838",
+  "battery_percentage": 50,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20169,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765795030265",
+  "device_temperature": 2,
+  "battery_percentage": 50,
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20272,
+  "request_id": "1765795056651",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20349,
+  "request_id": "1765795083114",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20454,
+  "device_model": "iphone 17 pro max",
+  "crash_log": "",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765795109737",
+  "device_temperature": 2,
+  "battery_percentage": 50,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "latency_ms": 20445,
+  "crash_log": "",
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765795136381",
+  "device_temperature": 2,
+  "battery_percentage": 50,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765795163120",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "latency_ms": 20549,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20599,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765795189938",
+  "battery_percentage": 50,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20644,
+  "model_name": "fastvlm_7b_stage3",
+  "battery_percentage": 50,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "request_id": "1765795216822",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20673,
+  "crash_log": "",
+  "battery_percentage": 50,
+  "app_version": "1.0",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765795243752",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20577,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 50,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765795271377",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20395,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "crash_log": "",
+  "device_temperature": 2,
+  "user_feedback": "",
+  "battery_percentage": 50,
+  "device_model": "iphone 17 pro max",
+  "request_id": "1765795297914",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765795324432",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "latency_ms": 20360,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765795351049",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "latency_ms": 20460,
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "request_id": "1765795377778",
+  "device_temperature": 2,
+  "model_name": "fastvlm_7b_stage3",
+  "device_model": "iphone 17 pro max",
+  "user_feedback": "",
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "latency_ms": 20552,
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20494,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 50,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765795404471",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 20562,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 50,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765795431226",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20576,
+  "request_id": "1765795457992",
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "battery_percentage": 50,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "crash_log": "",
+  "run_id": 1
+}
+
+{
+  "device_model": "iphone 17 pro max",
+  "app_version": "1.0",
+  "latency_ms": 20590,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 50,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765795484826",
+  "run_id": 1
+}
+
+{
+  "crash_log": "",
+  "latency_ms": 20612,
+  "device_model": "iphone 17 pro max",
+  "model_name": "fastvlm_7b_stage3",
+  "user_feedback": "",
+  "request_id": "1765795511665",
+  "battery_percentage": 50,
+  "device_temperature": 2,
+  "app_version": "1.0",
+  "run_id": 1
+}
+
+{
+  "latency_ms": 20662,
+  "model_name": "fastvlm_7b_stage3",
+  "app_version": "1.0",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "device_model": "iphone 17 pro max",
+  "battery_percentage": 50,
+  "crash_log": "",
+  "request_id": "1765795538586",
+  "run_id": 1
+}
+
+{
+  "app_version": "1.0",
+  "device_model": "iphone 17 pro max",
+  "latency_ms": 20806,
+  "crash_log": "",
+  "user_feedback": "",
+  "device_temperature": 2,
+  "battery_percentage": 50,
+  "model_name": "fastvlm_7b_stage3",
+  "request_id": "1765795565650",
+  "run_id": 1
+}
+

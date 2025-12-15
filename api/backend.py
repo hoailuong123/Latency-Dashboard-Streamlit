@@ -36,7 +36,7 @@ class LatencyLog(BaseModel):
     # Optional extended fields
     crash_log: Optional[str] = None
     user_feedback: Optional[str] = None  # "up", "down"
-    device_temperature: Optional[str] = None  # nominal | fair | serious | critical
+    device_temperature: Optional[int] = None  # 0: nominal, 1: fair, 2: serious, 3: critical
     battery_percentage: Optional[float] = None  # 0-100
 
 class LatencyLogResponse(BaseModel):

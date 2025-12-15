@@ -105,14 +105,20 @@ with col1:
                 help="Collect real-world user feedback"
             )
         with col_ext2:
-            device_temperature = st.number_input(
-                "Device Temperature (°C)",
-                min_value=0.0,
-                max_value=100.0,
-                value=35.0,
-                step=0.1,
-                help="Device temperature at runtime (optional)"
+            device_temperature = st.selectbox(
+                "Device Temperature",
+                options=[
+                    ("0 - nominal", 0),
+                    ("1 - fair", 1),
+                    ("2 - serious", 2),
+                    ("3 - critical", 3)
+                ],
+                format_func=lambda x: x[0],
+                index=0,
+                help="Device temperature level (iOS thermal state)"
             )
+            # Extract the numeric value
+            device_temperature = device_temperature[1]
 
         battery_percentage = st.slider(
             "Battery Percentage (%)",

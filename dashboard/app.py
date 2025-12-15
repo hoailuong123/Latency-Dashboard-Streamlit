@@ -6,6 +6,33 @@ import plotly.graph_objects as go
 
 SHARED_LOG = "/app/latency_logs.csv"
 
+# Temperature mapping: numeric to text
+TEMP_MAP_NUM_TO_TEXT = {
+    0: "nominal",
+    1: "fair",
+    2: "serious",
+    3: "critical"
+}
+
+# Temperature mapping: text to numeric (for backward compatibility)
+TEMP_MAP_TEXT_TO_NUM = {
+    "nominal": 0,
+    "fair": 1,
+    "serious": 2,
+    "critical": 3
+}
+
+def get_temp_label(temp_value):
+    """Convert numeric temperature value to text label"""
+    if pd.isna(temp_value):
+        return "N/A"
+    try:
+        temp_int = int(temp_value)
+        return TEMP_MAP_NUM_TO_TEXT.get(temp_int, str(temp_value))
+    except (ValueError, TypeError):
+        # Handle old text format for backward compatibility
+        return str(temp_value)
+
 def load_latency():
     # Always use the shared volume file; do not prompt user to upload
     if os.path.exists(SHARED_LOG):
@@ -119,16 +146,21 @@ if df is not None:
 
     if 'device_temperature' in df.columns:
         st.sidebar.subheader("Device temperature")
-        temp_levels = ["nominal", "fair", "serious", "critical"]
-
-        # Lấy các giá trị thực tế xuất hiện
-        existing = sorted(df['device_temperature'].dropna().unique())
-
-        selected_temps = st.sidebar.multiselect(
+        
+        # Get unique numeric values that exist in the data
+        existing_temps = sorted([int(t) for t in df['device_temperature'].dropna().unique()])
+        
+        # Create display options with labels
+        temp_options = {get_temp_label(t): t for t in existing_temps}
+        
+        selected_temp_labels = st.sidebar.multiselect(
             "Select temperature levels",
-            options=existing,
-            default=existing
+            options=list(temp_options.keys()),
+            default=list(temp_options.keys())
         )
+        
+        # Convert back to numeric values for filtering
+        selected_temps = [temp_options[label] for label in selected_temp_labels]
     else:
         selected_temps = []
 
@@ -207,7 +239,7 @@ if df is not None:
         with ext3:
             if 'device_temperature' in filtered_df.columns and len(filtered_df) > 0:
                 most_common_temp = filtered_df['device_temperature'].mode().iloc[0]
-                st.metric("Most common temperature", most_common_temp)
+                st.metric("Most common temperature", get_temp_label(most_common_temp))
 
         with ext4:
             if 'battery_percentage' in filtered_df.columns and len(filtered_df) > 0:
@@ -218,7 +250,7 @@ if df is not None:
 
         summary_df = filtered_df.groupby("model_name").agg({
                     "latency_ms": ["mean", "min", "max", lambda x: x.quantile(0.95)],
-                    "device_temperature": lambda x: x.mode().iloc[0] if len(x.mode()) > 0 else None,
+                    "device_temperature": lambda x: get_temp_label(x.mode().iloc[0]) if len(x.mode()) > 0 else "N/A",
                     "battery_percentage": "mean",
                     "crash_log": lambda x: (x.notna() & (x != "")).mean() * 100,
                     "user_feedback": lambda x: (x=="up").mean() * 100
@@ -292,12 +324,6 @@ if df is not None:
         
         with col1:
             st.subheader("🎯 Model Performance Radar Chart")
-            TEMP_MAP = {
-                "nominal": 1,
-                "fair": 2,
-                "serious": 3,
-                "critical": 4
-            }
 
             radar_df = filtered_df.groupby("model_name").agg({
                 "latency_ms": "mean",
@@ -307,7 +333,8 @@ if df is not None:
                 "device_temperature": lambda x: x.mode().iloc[0] if len(x.mode()) > 0 else None
             }).reset_index()
 
-            radar_df["temp_score"] = radar_df["device_temperature"].map(TEMP_MAP)
+            # Temperature is already numeric (0-3), add 1 for better visualization
+            radar_df["temp_score"] = radar_df["device_temperature"].fillna(0) + 1
 
             fig_radar = go.Figure()
 
@@ -376,7 +403,16 @@ if df is not None:
                     template="plotly_dark",
                     
                 )
-                fig_temp.update_layout(xaxis_title="Temperature Level")
+                # Update x-axis to show all text labels (even if no data for some levels)
+                fig_temp.update_layout(
+                    xaxis_title="Temperature Level",
+                    xaxis=dict(
+                        tickmode='array',
+                        tickvals=[0, 1, 2, 3],
+                        ticktext=['nominal', 'fair', 'serious', 'critical'],
+                        range=[-0.5, 3.5]  # Ensure all categories are shown
+                    )
+                )
                 st.plotly_chart(fig_temp, use_container_width=True)
         
         # Data table
@@ -413,11 +449,11 @@ if df is not None:
         colE.metric("Avg Battery (%)", f"{run_df['battery_percentage'].mean():.1f}")
 
         # Temperature 
-        most_common_temp = (
+        most_common_temp_val = (
             run_df["device_temperature"].mode().iloc[0]
-            if len(run_df["device_temperature"].dropna().mode()) > 0 else "N/A"
+            if len(run_df["device_temperature"].dropna().mode()) > 0 else None
         )
-        colF.metric("Common Temperature Level", most_common_temp)
+        colF.metric("Common Temperature Level", get_temp_label(most_common_temp_val))
 
         # Crash & Feedback
         crash_rate = (run_df["crash_log"].notna() & (run_df["crash_log"] != "")).mean() * 100
@@ -456,19 +492,16 @@ if df is not None:
         fig_battery.update_layout(template="plotly_dark")
         st.plotly_chart(fig_battery, use_container_width=True)
 
-        # Temperature timeline – numeric hóa 4 mức
-        TEMP_MAP = {"nominal": 1, "fair": 2, "serious": 3, "critical": 4}
-        run_df["temp_score"] = run_df["device_temperature"].map(TEMP_MAP)
-
+        # Temperature timeline – already numeric (0-3)
         fig_temp = px.line(
             run_df,
             x="request_id",
-            y="temp_score",
+            y="device_temperature",
             title="Temperature Timeline (iOS Levels)",
             markers=True
         )
         fig_temp.update_yaxes(
-            tickvals=[1, 2, 3, 4],
+            tickvals=[0, 1, 2, 3],
             ticktext=["nominal", "fair", "serious", "critical"]
         )
         fig_temp.update_layout(template="plotly_dark")
@@ -522,17 +555,18 @@ if df is not None:
             crash_rate = (sub["crash_log"].notna() & (sub["crash_log"] != "")).mean() * 100
             feedback_up = (sub["user_feedback"] == "up").mean() * 100
 
-            avg_temp = (
+            avg_temp_val = (
                 sub["device_temperature"].mode().iloc[0]
                 if len(sub["device_temperature"].dropna().mode()) > 0
-                else "N/A"
+                else None
             )
 
             return {
                 "run_id": run_id,
                 "model": sub["model_name"].mode().iloc[0],
                 "avg_latency": sub["latency_ms"].mean(),
-                "avg_temp": avg_temp,
+                "avg_temp": get_temp_label(avg_temp_val),
+                "avg_temp_numeric": avg_temp_val if avg_temp_val is not None else 0,
                 "avg_battery": sub["battery_percentage"].mean(),
                 "crash_rate_%": crash_rate,
                 "feedback_positive_%": feedback_up,
@@ -599,9 +633,8 @@ if df is not None:
         # ---- Radar chart per run ----
         st.subheader("🕸 Radar Chart Comparison")
 
-        # Convert temperature to numeric
-        TEMP_MAP = {"nominal": 1, "fair": 2, "serious": 3, "critical": 4}
-        summary_table["temp_score"] = summary_table["avg_temp"].map(TEMP_MAP)
+        # Use the numeric temperature value (add 1 for better visualization)
+        summary_table["temp_score"] = summary_table["avg_temp_numeric"] + 1
 
         radar_df = summary_table.copy()
         radar_df = radar_df.set_index("run_id")
@@ -642,9 +675,9 @@ if df is not None:
         st.markdown("### ① Correlation Heatmap")
 
         corr_df = compare_df.copy()
-        corr_df["temp_score"] = corr_df["device_temperature"].map(TEMP_MAP)
+        # Temperature is already numeric (0-3)
 
-        numeric_cols = ["latency_ms", "battery_percentage", "temp_score"]
+        numeric_cols = ["latency_ms", "battery_percentage", "device_temperature"]
         corr = corr_df[numeric_cols].corr()
 
         fig_corr = px.imshow(
@@ -679,7 +712,8 @@ if df is not None:
 
         def temp_rise(run):
             sub = compare_df[compare_df["run_id"] == run]
-            ts = sub["device_temperature"].map(TEMP_MAP)
+            # Temperature is already numeric (0-3)
+            ts = sub["device_temperature"]
             return ts.iloc[-1] - ts.iloc[0]
 
         summary_table["temp_rise"] = summary_table["run_id"].apply(temp_rise)
