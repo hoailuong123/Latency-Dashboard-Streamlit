@@ -245,21 +245,43 @@ if df is not None:
             if 'battery_percentage' in filtered_df.columns and len(filtered_df) > 0:
                 avg_batt = filtered_df['battery_percentage'].mean()
                 st.metric("Avg battery (%)", f"{avg_batt:.1f}")
+        # Ensure request_id is numeric
+        filtered_df["request_id"] = pd.to_numeric(filtered_df["request_id"], errors="coerce")
+
+        # Convert timestamp (ms) to datetime
+        filtered_df["timestamp"] = pd.to_datetime(
+            filtered_df["request_id"], unit="ms")
+        filtered_df = filtered_df.sort_values("timestamp")
+
+        filtered_df["runtime_sec"] = (
+            filtered_df["timestamp"]
+            - filtered_df.groupby("model_name")["timestamp"].transform("min")
+        ).dt.total_seconds()
+
+        filtered_df["runtime_min"] = filtered_df["runtime_sec"] / 60
+
             
         st.subheader("📌 Model Summary Table")
 
         summary_df = filtered_df.groupby("model_name").agg({
-                    "latency_ms": ["mean", "min", "max", lambda x: x.quantile(0.95)],
-                    "device_temperature": lambda x: get_temp_label(x.mode().iloc[0]) if len(x.mode()) > 0 else "N/A",
-                    "battery_percentage": "mean",
-                    "crash_log": lambda x: (x.notna() & (x != "")).mean() * 100,
-                    "user_feedback": lambda x: (x=="up").mean() * 100
-                })
+            "latency_ms": ["mean", "min", "max", lambda x: x.quantile(0.95)],
+            "runtime_min": "max",
+            "device_temperature": lambda x: get_temp_label(x.mode().iloc[0]) if len(x.mode()) > 0 else "N/A",
+            "crash_log": lambda x: (x.notna() & (x != "")).mean() * 100,
+            "user_feedback": lambda x: (x == "up").mean() * 100
+        })
 
         summary_df.columns = [
-                        "Avg Latency", "Min Latency", "Max Latency", "P95 Latency",
-                        "Avg Temp", "Avg Battery", "Crash %", "Positive Feedback %"
-                    ]
+            "Avg Latency (ms)",
+            "Min Latency (ms)",
+            "Max Latency (ms)",
+            "P95 Latency (ms)",
+            "Total Runtime (min)",
+            "Avg Temperature",
+            "Crash Rate (%)",
+            "Positive Feedback (%)"
+        ]
+
 
         st.dataframe(summary_df, use_container_width=True)  
         
@@ -292,6 +314,40 @@ if df is not None:
 
             filtered_df = filtered_df.reset_index(drop=True)
             filtered_df["time_index"] = range(len(filtered_df))
+            st.subheader("📊 Average Latency by Model")
+
+            latency_bar_df = (
+                filtered_df
+                .groupby("model_name", as_index=False)
+                .agg(avg_latency=("latency_ms", "mean"))
+            )
+
+            # Sort models by average latency (ascending) so bars go from low → high
+            latency_bar_df = latency_bar_df.sort_values("avg_latency", ascending=True)
+
+            fig_latency_bar = go.Figure()
+
+            fig_latency_bar.add_trace(go.Bar(
+                x=latency_bar_df["model_name"],
+                y=latency_bar_df["avg_latency"],
+                text=latency_bar_df["avg_latency"].round(1),   # số trên đầu cột
+                textposition="outside",
+                name="Avg Latency"
+            ))
+
+            fig_latency_bar.update_layout(
+                title="Average Inference Latency per Model",
+                xaxis_title="Model",
+                yaxis_title="Latency (ms)",
+                template="plotly_dark",
+                height=450,
+                uniformtext_minsize=10,
+                uniformtext_mode="hide"
+            )
+
+            st.plotly_chart(fig_latency_bar, use_container_width=True)
+
+
             st.subheader("🔋 Battery Percentage Over Time")
 
             fig_battery_time = go.Figure()
@@ -317,6 +373,53 @@ if df is not None:
             )
 
             st.plotly_chart(fig_battery_time, use_container_width=True)
+            def compute_battery_drain_by_model(df):
+                    rows = []
+
+                    for model in df["model_name"].dropna().unique():
+                        sub = df[df["model_name"] == model].sort_values("request_id")
+
+                        if len(sub) < 2:
+                            continue
+
+                        start_battery = sub["battery_percentage"].iloc[0]
+                        end_battery = sub["battery_percentage"].iloc[-1]
+
+                        if pd.isna(start_battery) or pd.isna(end_battery):
+                            continue
+
+                        rows.append({
+                            "model_name": model,
+                            "battery_drain": start_battery - end_battery
+                        })
+
+                    return pd.DataFrame(rows)
+
+            st.subheader("🔋 Battery Drain by Model")
+
+            drain_df = compute_battery_drain_by_model(filtered_df)
+
+            if not drain_df.empty:
+                    # Sort models by battery drain (ascending) so bars go from low → high
+                    drain_df = drain_df.sort_values("battery_drain", ascending=True)
+
+                    fig_drain_model = px.bar(
+                        drain_df,
+                        x="model_name",
+                        y="battery_drain",
+                        title="Battery Drain per Model (Start → End)",
+                        text_auto=".1f",
+                        template="plotly_dark"
+                    )
+
+                    fig_drain_model.update_layout(
+                        yaxis_title="Battery Drain (%)",
+                        xaxis_title="Model"
+                    )
+
+                    st.plotly_chart(fig_drain_model, use_container_width=True)
+            else:
+                    st.info("Not enough battery data to compute drain per model.")   
 
         
         # Additional visualizations
@@ -359,7 +462,6 @@ if df is not None:
             )
 
             st.plotly_chart(fig_radar, use_container_width=True)
-        
         with col2:
             st.subheader("📊 Latency Distribution by Model")
             if 'model_name' in filtered_df.columns and 'latency_ms' in filtered_df.columns:
@@ -370,7 +472,7 @@ if df is not None:
                     title='Latency Distribution by Model',
                     template='plotly_dark'
                 )
-                st.plotly_chart(fig_model, use_container_width=True)
+                st.plotly_chart(fig_model, use_container_width=True) 
 
 
 
@@ -693,7 +795,7 @@ if df is not None:
 
         def battery_drain(run):
             sub = compare_df[compare_df["run_id"] == run]
-            return sub["battery_percentage"].iloc[-1] - sub["battery_percentage"].iloc[0]
+            return sub["battery_percentage"].iloc[0] - sub["battery_percentage"].iloc[-1]
 
         summary_table["battery_drain"] = summary_table["run_id"].apply(battery_drain)
 

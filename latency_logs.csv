@@ -301,3 +301,1900 @@ request_id,model_name,latency_ms,device_model,app_version,crash_log,user_feedbac
 1765795511665,fastvlm_7b_stage3,20612,iphone 17 pro max,1.0,,,2,50,1
 1765795538586,fastvlm_7b_stage3,20662,iphone 17 pro max,1.0,,,2,50,1
 1765795565650,fastvlm_7b_stage3,20806,iphone 17 pro max,1.0,,,2,50,1
+1765852183992,fastvlm_0.5b_stage3,1751,iphone 17 pro max,1.0,,,0,50,2
+1765852186959,fastvlm_0.5b_stage3,1245,iphone 17 pro max,1.0,,,0,50,2
+1765852189941,fastvlm_0.5b_stage3,1245,iphone 17 pro max,1.0,,,0,50,2
+1765852192939,fastvlm_0.5b_stage3,1259,iphone 17 pro max,1.0,,,0,50,2
+1765852197063,fastvlm_0.5b_stage3,1284,iphone 17 pro max,1.0,,,0,50,2
+1765852200105,fastvlm_0.5b_stage3,1324,iphone 17 pro max,1.0,,,0,50,2
+1765852204320,fastvlm_0.5b_stage3,1375,iphone 17 pro max,1.0,,,0,50,2
+1765852208594,fastvlm_0.5b_stage3,1417,iphone 17 pro max,1.0,,,0,50,2
+1765852212917,fastvlm_0.5b_stage3,1469,iphone 17 pro max,1.0,,,0,50,2
+1765852216143,fastvlm_0.5b_stage3,1494,iphone 17 pro max,1.0,,,0,50,2
+1765852219394,fastvlm_0.5b_stage3,1515,iphone 17 pro max,1.0,,,0,50,2
+1765852222665,fastvlm_0.5b_stage3,1536,iphone 17 pro max,1.0,,,0,50,2
+1765852225957,fastvlm_0.5b_stage3,1559,iphone 17 pro max,1.0,,,0,50,2
+1765852229452,fastvlm_0.5b_stage3,1756,iphone 17 pro max,1.0,,,0,50,2
+1765852233033,fastvlm_0.5b_stage3,1818,iphone 17 pro max,1.0,,,0,50,2
+1765852236670,fastvlm_0.5b_stage3,1871,iphone 17 pro max,1.0,,,0,50,2
+1765852240391,fastvlm_0.5b_stage3,1944,iphone 17 pro max,1.0,,,0,50,2
+1765852244119,fastvlm_0.5b_stage3,1939,iphone 17 pro max,1.0,,,0,50,2
+1765852247879,fastvlm_0.5b_stage3,1979,iphone 17 pro max,1.0,,,0,50,2
+1765852251654,fastvlm_0.5b_stage3,1988,iphone 17 pro max,1.0,,,0,50,2
+1765852255458,fastvlm_0.5b_stage3,2009,iphone 17 pro max,1.0,,,0,50,2
+1765852259259,fastvlm_0.5b_stage3,2010,iphone 17 pro max,1.0,,,0,50,2
+1765852263064,fastvlm_0.5b_stage3,2015,iphone 17 pro max,1.0,,,0,50,2
+1765852268312,fastvlm_0.5b_stage3,2276,iphone 17 pro max,1.0,,,0,50,2
+1765852272207,fastvlm_0.5b_stage3,2105,iphone 17 pro max,1.0,,,0,50,2
+1765852276068,fastvlm_0.5b_stage3,2051,iphone 17 pro max,1.0,,,0,50,2
+1765852281360,fastvlm_0.5b_stage3,2324,iphone 17 pro max,1.0,,,0,50,2
+1765852286629,fastvlm_0.5b_stage3,2311,iphone 17 pro max,1.0,,,0,50,2
+1765852291888,fastvlm_0.5b_stage3,2299,iphone 17 pro max,1.0,,,0,50,2
+1765852297167,fastvlm_0.5b_stage3,2313,iphone 17 pro max,1.0,,,0,50,2
+1765852302453,fastvlm_0.5b_stage3,2316,iphone 17 pro max,1.0,,,0,50,2
+1765852307748,fastvlm_0.5b_stage3,2338,iphone 17 pro max,1.0,,,0,50,2
+1765852313022,fastvlm_0.5b_stage3,2316,iphone 17 pro max,1.0,,,0,50,2
+1765852318324,fastvlm_0.5b_stage3,2350,iphone 17 pro max,1.0,,,0,50,2
+1765852323625,fastvlm_0.5b_stage3,2348,iphone 17 pro max,1.0,,,1,50,2
+1765852328948,fastvlm_0.5b_stage3,2359,iphone 17 pro max,1.0,,,1,50,2
+1765852334265,fastvlm_0.5b_stage3,2357,iphone 17 pro max,1.0,,,1,50,2
+1765852339592,fastvlm_0.5b_stage3,2366,iphone 17 pro max,1.0,,,1,50,2
+1765852343466,fastvlm_0.5b_stage3,2090,iphone 17 pro max,1.0,,,1,50,2
+1765852347413,fastvlm_0.5b_stage3,2139,iphone 17 pro max,1.0,,,1,50,2
+1765852352813,fastvlm_0.5b_stage3,2422,iphone 17 pro max,1.0,,,1,50,2
+1765852358211,fastvlm_0.5b_stage3,2434,iphone 17 pro max,1.0,,,1,50,2
+1765852362115,fastvlm_0.5b_stage3,2105,iphone 17 pro max,1.0,,,1,50,2
+1765852366075,fastvlm_0.5b_stage3,2149,iphone 17 pro max,1.0,,,1,50,2
+1765852371532,fastvlm_0.5b_stage3,2471,iphone 17 pro max,1.0,,,1,50,2
+1765852375447,fastvlm_0.5b_stage3,2120,iphone 17 pro max,1.0,,,1,50,2
+1765852379465,fastvlm_0.5b_stage3,2067,iphone 17 pro max,1.0,,,1,50,2
+1765852383446,fastvlm_0.5b_stage3,2168,iphone 17 pro max,1.0,,,1,50,2
+1765852387435,fastvlm_0.5b_stage3,2174,iphone 17 pro max,1.0,,,1,50,2
+1765852391438,fastvlm_0.5b_stage3,2193,iphone 17 pro max,1.0,,,1,50,2
+1765852395425,fastvlm_0.5b_stage3,2179,iphone 17 pro max,1.0,,,1,50,2
+1765852399424,fastvlm_0.5b_stage3,2179,iphone 17 pro max,1.0,,,1,50,2
+1765852403450,fastvlm_0.5b_stage3,2204,iphone 17 pro max,1.0,,,1,50,2
+1765852407463,fastvlm_0.5b_stage3,2198,iphone 17 pro max,1.0,,,1,50,2
+1765852411478,fastvlm_0.5b_stage3,2198,iphone 17 pro max,1.0,,,1,50,2
+1765852415511,fastvlm_0.5b_stage3,2214,iphone 17 pro max,1.0,,,1,50,2
+1765852421064,fastvlm_0.5b_stage3,2547,iphone 17 pro max,1.0,,,1,50,2
+1765852426597,fastvlm_0.5b_stage3,2548,iphone 17 pro max,1.0,,,1,50,2
+1765852430602,fastvlm_0.5b_stage3,2203,iphone 17 pro max,1.0,,,1,50,2
+1765852434666,fastvlm_0.5b_stage3,2236,iphone 17 pro max,1.0,,,1,50,2
+1765852438743,fastvlm_0.5b_stage3,2245,iphone 17 pro max,1.0,,,1,50,2
+1765852442821,fastvlm_0.5b_stage3,2254,iphone 17 pro max,1.0,,,1,50,2
+1765852446893,fastvlm_0.5b_stage3,2257,iphone 17 pro max,1.0,,,1,50,2
+1765852450944,fastvlm_0.5b_stage3,2242,iphone 17 pro max,1.0,,,1,50,2
+1765852454994,fastvlm_0.5b_stage3,2243,iphone 17 pro max,1.0,,,1,50,2
+1765852459032,fastvlm_0.5b_stage3,2231,iphone 17 pro max,1.0,,,1,50,2
+1765852463111,fastvlm_0.5b_stage3,2260,iphone 17 pro max,1.0,,,1,50,2
+1765852467179,fastvlm_0.5b_stage3,2257,iphone 17 pro max,1.0,,,1,50,2
+1765852471240,fastvlm_0.5b_stage3,2237,iphone 17 pro max,1.0,,,1,45,2
+1765852475297,fastvlm_0.5b_stage3,2244,iphone 17 pro max,1.0,,,1,45,2
+1765852479337,fastvlm_0.5b_stage3,2232,iphone 17 pro max,1.0,,,1,45,2
+1765852483397,fastvlm_0.5b_stage3,2244,iphone 17 pro max,1.0,,,1,45,2
+1765852487472,fastvlm_0.5b_stage3,2208,iphone 17 pro max,1.0,,,1,45,2
+1765852491556,fastvlm_0.5b_stage3,2268,iphone 17 pro max,1.0,,,1,45,2
+1765852495613,fastvlm_0.5b_stage3,2242,iphone 17 pro max,1.0,,,1,45,2
+1765852499760,fastvlm_0.5b_stage3,2287,iphone 17 pro max,1.0,,,1,45,2
+1765852503816,fastvlm_0.5b_stage3,2244,iphone 17 pro max,1.0,,,1,45,2
+1765852507929,fastvlm_0.5b_stage3,2131,iphone 17 pro max,1.0,,,1,45,2
+1765852512032,fastvlm_0.5b_stage3,2277,iphone 17 pro max,1.0,,,1,45,2
+1765852516116,fastvlm_0.5b_stage3,2260,iphone 17 pro max,1.0,,,1,45,2
+1765852520232,fastvlm_0.5b_stage3,2291,iphone 17 pro max,1.0,,,1,45,2
+1765852524319,fastvlm_0.5b_stage3,2278,iphone 17 pro max,1.0,,,1,45,2
+1765852528423,fastvlm_0.5b_stage3,2283,iphone 17 pro max,1.0,,,1,45,2
+1765852532513,fastvlm_0.5b_stage3,2256,iphone 17 pro max,1.0,,,1,45,2
+1765852536593,fastvlm_0.5b_stage3,2252,iphone 17 pro max,1.0,,,1,45,2
+1765852540732,fastvlm_0.5b_stage3,2308,iphone 17 pro max,1.0,,,1,45,2
+1765852544864,fastvlm_0.5b_stage3,2306,iphone 17 pro max,1.0,,,1,45,2
+1765852549003,fastvlm_0.5b_stage3,2310,iphone 17 pro max,1.0,,,1,45,2
+1765852553136,fastvlm_0.5b_stage3,2308,iphone 17 pro max,1.0,,,1,45,2
+1765852557298,fastvlm_0.5b_stage3,2322,iphone 17 pro max,1.0,,,1,45,2
+1765852561443,fastvlm_0.5b_stage3,2315,iphone 17 pro max,1.0,,,1,45,2
+1765852565618,fastvlm_0.5b_stage3,2357,iphone 17 pro max,1.0,,,1,45,2
+1765852569780,fastvlm_0.5b_stage3,2334,iphone 17 pro max,1.0,,,1,45,2
+1765852573900,fastvlm_0.5b_stage3,2302,iphone 17 pro max,1.0,,,1,45,2
+1765852578054,fastvlm_0.5b_stage3,2340,iphone 17 pro max,1.0,,,1,45,2
+1765852582160,fastvlm_0.5b_stage3,2294,iphone 17 pro max,1.0,,,1,45,2
+1765852587852,fastvlm_0.5b_stage3,2649,iphone 17 pro max,1.0,,,1,45,2
+1765852591977,fastvlm_0.5b_stage3,2330,iphone 17 pro max,1.0,,,1,45,2
+1765852596101,fastvlm_0.5b_stage3,2303,iphone 17 pro max,1.0,,,1,45,2
+1765852600276,fastvlm_0.5b_stage3,2361,iphone 17 pro max,1.0,,,1,45,2
+1765852604460,fastvlm_0.5b_stage3,2362,iphone 17 pro max,1.0,,,1,45,2
+1765852608583,fastvlm_0.5b_stage3,2300,iphone 17 pro max,1.0,,,1,45,2
+1765852612711,fastvlm_0.5b_stage3,2296,iphone 17 pro max,1.0,,,1,45,2
+1765852616857,fastvlm_0.5b_stage3,2324,iphone 17 pro max,1.0,,,1,45,2
+1765852621016,fastvlm_0.5b_stage3,2333,iphone 17 pro max,1.0,,,1,45,2
+1765852625215,fastvlm_0.5b_stage3,2364,iphone 17 pro max,1.0,,,1,45,2
+1765852629418,fastvlm_0.5b_stage3,2367,iphone 17 pro max,1.0,,,1,45,2
+1765852633642,fastvlm_0.5b_stage3,2390,iphone 17 pro max,1.0,,,1,45,2
+1765852637850,fastvlm_0.5b_stage3,2381,iphone 17 pro max,1.0,,,1,45,2
+1765852642089,fastvlm_0.5b_stage3,2404,iphone 17 pro max,1.0,,,1,45,2
+1765852646360,fastvlm_0.5b_stage3,2440,iphone 17 pro max,1.0,,,1,45,2
+1765852650613,fastvlm_0.5b_stage3,2426,iphone 17 pro max,1.0,,,2,45,2
+1765852654966,fastvlm_0.5b_stage3,2515,iphone 17 pro max,1.0,,,2,45,2
+1765852659261,fastvlm_0.5b_stage3,2456,iphone 17 pro max,1.0,,,2,45,2
+1765852663574,fastvlm_0.5b_stage3,2471,iphone 17 pro max,1.0,,,2,45,2
+1765852667909,fastvlm_0.5b_stage3,2488,iphone 17 pro max,1.0,,,2,45,2
+1765852672278,fastvlm_0.5b_stage3,2524,iphone 17 pro max,1.0,,,2,45,2
+1765852676637,fastvlm_0.5b_stage3,2514,iphone 17 pro max,1.0,,,2,45,2
+1765852681065,fastvlm_0.5b_stage3,2579,iphone 17 pro max,1.0,,,2,45,2
+1765852685447,fastvlm_0.5b_stage3,2541,iphone 17 pro max,1.0,,,2,45,2
+1765852689820,fastvlm_0.5b_stage3,2531,iphone 17 pro max,1.0,,,2,45,2
+1765852694191,fastvlm_0.5b_stage3,2533,iphone 17 pro max,1.0,,,2,45,2
+1765852700193,fastvlm_0.5b_stage3,2833,iphone 17 pro max,1.0,,,2,45,2
+1765852704511,fastvlm_0.5b_stage3,2502,iphone 17 pro max,1.0,,,2,45,2
+1765852708950,fastvlm_0.5b_stage3,2607,iphone 17 pro max,1.0,,,2,45,2
+1765852713292,fastvlm_0.5b_stage3,2515,iphone 17 pro max,1.0,,,2,45,2
+1765852717729,fastvlm_0.5b_stage3,2604,iphone 17 pro max,1.0,,,2,45,2
+1765852722102,fastvlm_0.5b_stage3,2539,iphone 17 pro max,1.0,,,2,45,2
+1765852726546,fastvlm_0.5b_stage3,2604,iphone 17 pro max,1.0,,,2,45,2
+1765852730940,fastvlm_0.5b_stage3,2563,iphone 17 pro max,1.0,,,2,45,2
+1765852735346,fastvlm_0.5b_stage3,2567,iphone 17 pro max,1.0,,,2,45,2
+1765852739756,fastvlm_0.5b_stage3,2578,iphone 17 pro max,1.0,,,2,45,2
+1765852744172,fastvlm_0.5b_stage3,2577,iphone 17 pro max,1.0,,,2,45,2
+1765852748602,fastvlm_0.5b_stage3,2590,iphone 17 pro max,1.0,,,2,45,2
+1765852753034,fastvlm_0.5b_stage3,2588,iphone 17 pro max,1.0,,,2,45,2
+1765852757557,fastvlm_0.5b_stage3,2680,iphone 17 pro max,1.0,,,2,45,2
+1765852762008,fastvlm_0.5b_stage3,2611,iphone 17 pro max,1.0,,,2,45,2
+1765852768088,fastvlm_0.5b_stage3,2870,iphone 17 pro max,1.0,,,2,45,2
+1765852772526,fastvlm_0.5b_stage3,2613,iphone 17 pro max,1.0,,,2,45,2
+1765852777032,fastvlm_0.5b_stage3,2651,iphone 17 pro max,1.0,,,2,45,2
+1765852781557,fastvlm_0.5b_stage3,2676,iphone 17 pro max,1.0,,,2,45,2
+1765852786083,fastvlm_0.5b_stage3,2685,iphone 17 pro max,1.0,,,2,45,2
+1765852790635,fastvlm_0.5b_stage3,2704,iphone 17 pro max,1.0,,,2,45,2
+1765852795157,fastvlm_0.5b_stage3,2673,iphone 17 pro max,1.0,,,2,45,2
+1765852799679,fastvlm_0.5b_stage3,2681,iphone 17 pro max,1.0,,,2,45,2
+1765852804227,fastvlm_0.5b_stage3,2694,iphone 17 pro max,1.0,,,2,45,2
+1765852808870,fastvlm_0.5b_stage3,2787,iphone 17 pro max,1.0,,,2,45,2
+1765852813430,fastvlm_0.5b_stage3,2711,iphone 17 pro max,1.0,,,2,45,2
+1765852818033,fastvlm_0.5b_stage3,2749,iphone 17 pro max,1.0,,,2,45,2
+1765852822607,fastvlm_0.5b_stage3,2720,iphone 17 pro max,1.0,,,2,45,2
+1765852827207,fastvlm_0.5b_stage3,2739,iphone 17 pro max,1.0,,,2,45,2
+1765852831810,fastvlm_0.5b_stage3,2757,iphone 17 pro max,1.0,,,2,45,2
+1765852836381,fastvlm_0.5b_stage3,2726,iphone 17 pro max,1.0,,,2,45,2
+1765852840966,fastvlm_0.5b_stage3,2745,iphone 17 pro max,1.0,,,2,45,2
+1765852845533,fastvlm_0.5b_stage3,2728,iphone 17 pro max,1.0,,,2,45,2
+1765852850101,fastvlm_0.5b_stage3,2730,iphone 17 pro max,1.0,,,2,45,2
+1765852854660,fastvlm_0.5b_stage3,2718,iphone 17 pro max,1.0,,,2,45,2
+1765852859241,fastvlm_0.5b_stage3,2735,iphone 17 pro max,1.0,,,2,45,2
+1765852863820,fastvlm_0.5b_stage3,2730,iphone 17 pro max,1.0,,,2,45,2
+1765852868428,fastvlm_0.5b_stage3,2756,iphone 17 pro max,1.0,,,2,45,2
+1765852873030,fastvlm_0.5b_stage3,2756,iphone 17 pro max,1.0,,,2,45,2
+1765852877596,fastvlm_0.5b_stage3,2720,iphone 17 pro max,1.0,,,2,45,2
+1765852882302,fastvlm_0.5b_stage3,2863,iphone 17 pro max,1.0,,,2,45,2
+1765852886921,fastvlm_0.5b_stage3,2762,iphone 17 pro max,1.0,,,2,45,2
+1765852891636,fastvlm_0.5b_stage3,2862,iphone 17 pro max,1.0,,,2,45,2
+1765852896280,fastvlm_0.5b_stage3,2803,iphone 17 pro max,1.0,,,2,45,2
+1765852900990,fastvlm_0.5b_stage3,2691,iphone 17 pro max,1.0,,,2,45,2
+1765852905787,fastvlm_0.5b_stage3,2838,iphone 17 pro max,1.0,,,2,45,2
+1765852910454,fastvlm_0.5b_stage3,2809,iphone 17 pro max,1.0,,,2,45,2
+1765852915130,fastvlm_0.5b_stage3,2819,iphone 17 pro max,1.0,,,2,45,2
+1765852919907,fastvlm_0.5b_stage3,2915,iphone 17 pro max,1.0,,,2,45,2
+1765852924603,fastvlm_0.5b_stage3,2826,iphone 17 pro max,1.0,,,2,45,2
+1765852929411,fastvlm_0.5b_stage3,2950,iphone 17 pro max,1.0,,,2,45,2
+1765852934132,fastvlm_0.5b_stage3,2869,iphone 17 pro max,1.0,,,2,45,2
+1765852938846,fastvlm_0.5b_stage3,2850,iphone 17 pro max,1.0,,,2,45,2
+1765852943648,fastvlm_0.5b_stage3,2936,iphone 17 pro max,1.0,,,2,45,2
+1765852948349,fastvlm_0.5b_stage3,2836,iphone 17 pro max,1.0,,,2,45,2
+1765852953168,fastvlm_0.5b_stage3,2955,iphone 17 pro max,1.0,,,2,45,2
+1765852957888,fastvlm_0.5b_stage3,2857,iphone 17 pro max,1.0,,,2,45,2
+1765852962681,fastvlm_0.5b_stage3,2933,iphone 17 pro max,1.0,,,2,45,2
+1765852967386,fastvlm_0.5b_stage3,2835,iphone 17 pro max,1.0,,,2,45,2
+1765852972098,fastvlm_0.5b_stage3,2865,iphone 17 pro max,1.0,,,2,45,2
+1765852976827,fastvlm_0.5b_stage3,2878,iphone 17 pro max,1.0,,,2,45,2
+1765852981451,fastvlm_0.5b_stage3,2784,iphone 17 pro max,1.0,,,2,45,2
+1765852986231,fastvlm_0.5b_stage3,2932,iphone 17 pro max,1.0,,,2,45,2
+1765852990930,fastvlm_0.5b_stage3,2844,iphone 17 pro max,1.0,,,2,45,2
+1765852997333,fastvlm_0.5b_stage3,3110,iphone 17 pro max,1.0,,,2,45,2
+1765853001964,fastvlm_0.5b_stage3,2811,iphone 17 pro max,1.0,,,2,45,2
+1765853006697,fastvlm_0.5b_stage3,2878,iphone 17 pro max,1.0,,,2,45,2
+1765853011400,fastvlm_0.5b_stage3,2846,iphone 17 pro max,1.0,,,2,45,2
+1765853016112,fastvlm_0.5b_stage3,2855,iphone 17 pro max,1.0,,,2,45,2
+1765853020799,fastvlm_0.5b_stage3,2828,iphone 17 pro max,1.0,,,2,45,2
+1765853025625,fastvlm_0.5b_stage3,2972,iphone 17 pro max,1.0,,,2,45,2
+1765853030335,fastvlm_0.5b_stage3,2861,iphone 17 pro max,1.0,,,2,45,2
+1765853035068,fastvlm_0.5b_stage3,2864,iphone 17 pro max,1.0,,,2,45,2
+1765853039869,fastvlm_0.5b_stage3,2948,iphone 17 pro max,1.0,,,2,45,2
+1765853044589,fastvlm_0.5b_stage3,2866,iphone 17 pro max,1.0,,,2,45,2
+1765853049315,fastvlm_0.5b_stage3,2875,iphone 17 pro max,1.0,,,2,45,2
+1765853054120,fastvlm_0.5b_stage3,2947,iphone 17 pro max,1.0,,,2,45,2
+1765853058851,fastvlm_0.5b_stage3,2862,iphone 17 pro max,1.0,,,2,45,2
+1765853063591,fastvlm_0.5b_stage3,2866,iphone 17 pro max,1.0,,,2,40,2
+1765853070126,fastvlm_0.5b_stage3,3204,iphone 17 pro max,1.0,,,2,40,2
+1765853074870,fastvlm_0.5b_stage3,2911,iphone 17 pro max,1.0,,,2,40,2
+1765853079648,fastvlm_0.5b_stage3,2906,iphone 17 pro max,1.0,,,2,40,2
+1765853086188,fastvlm_0.5b_stage3,3197,iphone 17 pro max,1.0,,,2,40,2
+1765853090958,fastvlm_0.5b_stage3,2930,iphone 17 pro max,1.0,,,2,40,2
+1765853095760,fastvlm_0.5b_stage3,2933,iphone 17 pro max,1.0,,,2,40,2
+1765853100653,fastvlm_0.5b_stage3,3011,iphone 17 pro max,1.0,,,2,40,2
+1765853105396,fastvlm_0.5b_stage3,2867,iphone 17 pro max,1.0,,,2,40,2
+1765853110285,fastvlm_0.5b_stage3,3024,iphone 17 pro max,1.0,,,2,40,2
+1765853115126,fastvlm_0.5b_stage3,2964,iphone 17 pro max,1.0,,,2,40,2
+1765853119945,fastvlm_0.5b_stage3,2948,iphone 17 pro max,1.0,,,2,40,2
+1765853124862,fastvlm_0.5b_stage3,3049,iphone 17 pro max,1.0,,,2,40,2
+1765853129679,fastvlm_0.5b_stage3,2948,iphone 17 pro max,1.0,,,2,40,2
+1765853134567,fastvlm_0.5b_stage3,3020,iphone 17 pro max,1.0,,,2,40,2
+1765853139375,fastvlm_0.5b_stage3,2943,iphone 17 pro max,1.0,,,2,40,2
+1765853144202,fastvlm_0.5b_stage3,2952,iphone 17 pro max,1.0,,,2,40,2
+1765853149116,fastvlm_0.5b_stage3,3051,iphone 17 pro max,1.0,,,2,40,2
+1765853153854,fastvlm_0.5b_stage3,2870,iphone 17 pro max,1.0,,,2,40,2
+1765853158765,fastvlm_0.5b_stage3,3049,iphone 17 pro max,1.0,,,2,40,2
+1765853163594,fastvlm_0.5b_stage3,2957,iphone 17 pro max,1.0,,,2,40,2
+1765853168540,fastvlm_0.5b_stage3,3074,iphone 17 pro max,1.0,,,2,40,2
+1765853173388,fastvlm_0.5b_stage3,2971,iphone 17 pro max,1.0,,,2,40,2
+1765853178347,fastvlm_0.5b_stage3,3080,iphone 17 pro max,1.0,,,2,40,2
+1765853183196,fastvlm_0.5b_stage3,2977,iphone 17 pro max,1.0,,,2,40,2
+1765853188148,fastvlm_0.5b_stage3,3079,iphone 17 pro max,1.0,,,2,40,2
+1765853192992,fastvlm_0.5b_stage3,2972,iphone 17 pro max,1.0,,,2,40,2
+1765853197959,fastvlm_0.5b_stage3,3090,iphone 17 pro max,1.0,,,2,40,2
+1765853202798,fastvlm_0.5b_stage3,2959,iphone 17 pro max,1.0,,,2,40,2
+1765853207750,fastvlm_0.5b_stage3,3080,iphone 17 pro max,1.0,,,2,40,2
+1765853212597,fastvlm_0.5b_stage3,2959,iphone 17 pro max,1.0,,,2,40,2
+1765853217543,fastvlm_0.5b_stage3,3072,iphone 17 pro max,1.0,,,2,40,2
+1765853222393,fastvlm_0.5b_stage3,2970,iphone 17 pro max,1.0,,,2,40,2
+1765853229078,fastvlm_0.5b_stage3,3291,iphone 17 pro max,1.0,,,2,40,2
+1765853233934,fastvlm_0.5b_stage3,3009,iphone 17 pro max,1.0,,,2,40,2
+1765853238903,fastvlm_0.5b_stage3,3081,iphone 17 pro max,1.0,,,2,40,2
+1765853243784,fastvlm_0.5b_stage3,2994,iphone 17 pro max,1.0,,,2,40,2
+1765853248761,fastvlm_0.5b_stage3,3086,iphone 17 pro max,1.0,,,2,40,2
+1765853253638,fastvlm_0.5b_stage3,2981,iphone 17 pro max,1.0,,,2,40,2
+1765853258616,fastvlm_0.5b_stage3,3092,iphone 17 pro max,1.0,,,2,40,2
+1765853263488,fastvlm_0.5b_stage3,2980,iphone 17 pro max,1.0,,,2,40,2
+1765853268469,fastvlm_0.5b_stage3,3077,iphone 17 pro max,1.0,,,2,40,2
+1765853273324,fastvlm_0.5b_stage3,2979,iphone 17 pro max,1.0,,,2,40,2
+1765853278278,fastvlm_0.5b_stage3,3085,iphone 17 pro max,1.0,,,2,40,2
+1765853283152,fastvlm_0.5b_stage3,2990,iphone 17 pro max,1.0,,,2,40,2
+1765853288119,fastvlm_0.5b_stage3,3089,iphone 17 pro max,1.0,,,2,40,2
+1765853292971,fastvlm_0.5b_stage3,2975,iphone 17 pro max,1.0,,,2,40,2
+1765853297917,fastvlm_0.5b_stage3,3072,iphone 17 pro max,1.0,,,2,40,2
+1765853302732,fastvlm_0.5b_stage3,2950,iphone 17 pro max,1.0,,,2,40,2
+1765853307688,fastvlm_0.5b_stage3,3076,iphone 17 pro max,1.0,,,2,40,2
+1765853312534,fastvlm_0.5b_stage3,2970,iphone 17 pro max,1.0,,,2,40,2
+1765853317468,fastvlm_0.5b_stage3,3055,iphone 17 pro max,1.0,,,2,40,2
+1765853322301,fastvlm_0.5b_stage3,2954,iphone 17 pro max,1.0,,,2,40,2
+1765853327264,fastvlm_0.5b_stage3,3083,iphone 17 pro max,1.0,,,2,40,2
+1765853332137,fastvlm_0.5b_stage3,2987,iphone 17 pro max,1.0,,,2,40,2
+1765853337120,fastvlm_0.5b_stage3,3089,iphone 17 pro max,1.0,,,2,40,2
+1765853343771,fastvlm_0.5b_stage3,3219,iphone 17 pro max,1.0,,,2,40,2
+1765853348660,fastvlm_0.5b_stage3,3028,iphone 17 pro max,1.0,,,2,40,2
+1765853353643,fastvlm_0.5b_stage3,3093,iphone 17 pro max,1.0,,,2,40,2
+1765853358543,fastvlm_0.5b_stage3,3009,iphone 17 pro max,1.0,,,2,40,2
+1765853363440,fastvlm_0.5b_stage3,3003,iphone 17 pro max,1.0,,,2,40,2
+1765853368445,fastvlm_0.5b_stage3,3111,iphone 17 pro max,1.0,,,2,40,2
+1765853373350,fastvlm_0.5b_stage3,3014,iphone 17 pro max,1.0,,,2,40,2
+1765853378365,fastvlm_0.5b_stage3,3113,iphone 17 pro max,1.0,,,2,40,2
+1765853383268,fastvlm_0.5b_stage3,3014,iphone 17 pro max,1.0,,,2,40,2
+1765853388283,fastvlm_0.5b_stage3,3114,iphone 17 pro max,1.0,,,2,40,2
+1765853393178,fastvlm_0.5b_stage3,3006,iphone 17 pro max,1.0,,,2,40,2
+1765853398124,fastvlm_0.5b_stage3,3053,iphone 17 pro max,1.0,,,2,40,2
+1765853403008,fastvlm_0.5b_stage3,3001,iphone 17 pro max,1.0,,,2,40,2
+1765853408019,fastvlm_0.5b_stage3,3116,iphone 17 pro max,1.0,,,2,40,2
+1765853412918,fastvlm_0.5b_stage3,2995,iphone 17 pro max,1.0,,,2,40,2
+1765853417880,fastvlm_0.5b_stage3,3068,iphone 17 pro max,1.0,,,2,40,2
+1765853422749,fastvlm_0.5b_stage3,2990,iphone 17 pro max,1.0,,,2,40,2
+1765853429448,fastvlm_0.5b_stage3,3292,iphone 17 pro max,1.0,,,2,40,2
+1765853434302,fastvlm_0.5b_stage3,3009,iphone 17 pro max,1.0,,,2,40,2
+1765853439298,fastvlm_0.5b_stage3,3106,iphone 17 pro max,1.0,,,2,40,2
+1765853444184,fastvlm_0.5b_stage3,3008,iphone 17 pro max,1.0,,,2,40,2
+1765853449145,fastvlm_0.5b_stage3,3086,iphone 17 pro max,1.0,,,2,40,2
+1765853454031,fastvlm_0.5b_stage3,3004,iphone 17 pro max,1.0,,,2,40,2
+1765853459003,fastvlm_0.5b_stage3,3093,iphone 17 pro max,1.0,,,2,40,2
+1765853465644,fastvlm_0.5b_stage3,3215,iphone 17 pro max,1.0,,,2,40,2
+1765853472274,fastvlm_0.5b_stage3,3275,iphone 17 pro max,1.0,,,2,40,2
+1765853477185,fastvlm_0.5b_stage3,3056,iphone 17 pro max,1.0,,,2,40,2
+1765853483939,fastvlm_0.5b_stage3,3328,iphone 17 pro max,1.0,,,2,40,2
+1765853488861,fastvlm_0.5b_stage3,3064,iphone 17 pro max,1.0,,,2,40,2
+1765853493828,fastvlm_0.5b_stage3,3081,iphone 17 pro max,1.0,,,2,40,2
+1765853498708,fastvlm_0.5b_stage3,2993,iphone 17 pro max,1.0,,,2,40,2
+1765853503732,fastvlm_0.5b_stage3,3135,iphone 17 pro max,1.0,,,2,40,2
+1765853508642,fastvlm_0.5b_stage3,3025,iphone 17 pro max,1.0,,,2,40,2
+1765853513664,fastvlm_0.5b_stage3,3133,iphone 17 pro max,1.0,,,2,40,2
+1765853520309,fastvlm_0.5b_stage3,3223,iphone 17 pro max,1.0,,,2,40,2
+1765853527042,fastvlm_0.5b_stage3,3377,iphone 17 pro max,1.0,,,2,40,2
+1765853533685,fastvlm_0.5b_stage3,3249,iphone 17 pro max,1.0,,,2,40,2
+1765853540383,fastvlm_0.5b_stage3,3144,iphone 17 pro max,1.0,,,2,40,2
+1765853547130,fastvlm_0.5b_stage3,3364,iphone 17 pro max,1.0,,,2,40,2
+1765853553754,fastvlm_0.5b_stage3,3250,iphone 17 pro max,1.0,,,2,40,2
+1765853560514,fastvlm_0.5b_stage3,3379,iphone 17 pro max,1.0,,,2,40,2
+1765853567239,fastvlm_0.5b_stage3,3354,iphone 17 pro max,1.0,,,2,40,2
+1765853573988,fastvlm_0.5b_stage3,3349,iphone 17 pro max,1.0,,,2,40,2
+1765853580678,fastvlm_0.5b_stage3,3330,iphone 17 pro max,1.0,,,2,40,2
+1765853585733,fastvlm_0.5b_stage3,3211,iphone 17 pro max,1.0,,,2,40,2
+1765853592402,fastvlm_0.5b_stage3,3268,iphone 17 pro max,1.0,,,2,40,2
+1765853599142,fastvlm_0.5b_stage3,3368,iphone 17 pro max,1.0,,,2,40,2
+1765853605830,fastvlm_0.5b_stage3,3314,iphone 17 pro max,1.0,,,2,40,2
+1765853612512,fastvlm_0.5b_stage3,3307,iphone 17 pro max,1.0,,,2,40,2
+1765853619283,fastvlm_0.5b_stage3,3174,iphone 17 pro max,1.0,,,2,40,2
+
+1765855073170,fastvlm_1.5b_stage3,3440,iphone 17 pro max,1.0,,,0,40,3
+1765855082840,fastvlm_1.5b_stage3,3206,iphone 17 pro max,1.0,,,0,40,3
+1765855092792,fastvlm_1.5b_stage3,3519,iphone 17 pro max,1.0,,,0,40,3
+1765855102962,fastvlm_1.5b_stage3,3720,iphone 17 pro max,1.0,,,0,40,3
+1765855113268,fastvlm_1.5b_stage3,3827,iphone 17 pro max,1.0,,,0,40,3
+1765855124192,fastvlm_1.5b_stage3,4333,iphone 17 pro max,1.0,,,0,40,3
+1765855135408,fastvlm_1.5b_stage3,4415,iphone 17 pro max,1.0,,,0,40,3
+1765855146869,fastvlm_1.5b_stage3,4510,iphone 17 pro max,1.0,,,0,40,3
+1765855158526,fastvlm_1.5b_stage3,4582,iphone 17 pro max,1.0,,,0,40,3
+1765855170245,fastvlm_1.5b_stage3,4597,iphone 17 pro max,1.0,,,0,40,3
+1765855182031,fastvlm_1.5b_stage3,4619,iphone 17 pro max,1.0,,,0,40,3
+1765855193875,fastvlm_1.5b_stage3,4642,iphone 17 pro max,1.0,,,0,40,3
+1765855205751,fastvlm_1.5b_stage3,4653,iphone 17 pro max,1.0,,,0,40,3
+1765855217685,fastvlm_1.5b_stage3,4668,iphone 17 pro max,1.0,,,0,40,3
+1765855229678,fastvlm_1.5b_stage3,4695,iphone 17 pro max,1.0,,,1,40,3
+1765855241751,fastvlm_1.5b_stage3,4717,iphone 17 pro max,1.0,,,1,40,3
+1765855254015,fastvlm_1.5b_stage3,4846,iphone 17 pro max,1.0,,,1,40,3
+1765855266285,fastvlm_1.5b_stage3,4797,iphone 17 pro max,1.0,,,1,40,3
+1765855278630,fastvlm_1.5b_stage3,4825,iphone 17 pro max,1.0,,,1,40,3
+1765855291038,fastvlm_1.5b_stage3,4850,iphone 17 pro max,1.0,,,1,40,3
+1765855303508,fastvlm_1.5b_stage3,4885,iphone 17 pro max,1.0,,,1,40,3
+1765855316002,fastvlm_1.5b_stage3,4895,iphone 17 pro max,1.0,,,1,40,3
+1765855328501,fastvlm_1.5b_stage3,4890,iphone 17 pro max,1.0,,,1,40,3
+1765855341034,fastvlm_1.5b_stage3,4924,iphone 17 pro max,1.0,,,1,40,3
+1765855353701,fastvlm_1.5b_stage3,5024,iphone 17 pro max,1.0,,,1,40,3
+1765855366367,fastvlm_1.5b_stage3,4955,iphone 17 pro max,1.0,,,1,40,3
+1765855379025,fastvlm_1.5b_stage3,4856,iphone 17 pro max,1.0,,,1,40,3
+1765855391747,fastvlm_1.5b_stage3,4983,iphone 17 pro max,1.0,,,1,40,3
+1765855404421,fastvlm_1.5b_stage3,4989,iphone 17 pro max,1.0,,,1,40,3
+1765855417060,fastvlm_1.5b_stage3,4960,iphone 17 pro max,1.0,,,1,40,3
+1765855429711,fastvlm_1.5b_stage3,4992,iphone 17 pro max,1.0,,,1,40,3
+1765855442419,fastvlm_1.5b_stage3,4980,iphone 17 pro max,1.0,,,1,40,3
+1765855455066,fastvlm_1.5b_stage3,4990,iphone 17 pro max,1.0,,,1,40,3
+1765855467743,fastvlm_1.5b_stage3,4980,iphone 17 pro max,1.0,,,1,40,3
+1765855480378,fastvlm_1.5b_stage3,4966,iphone 17 pro max,1.0,,,1,40,3
+1765855493180,fastvlm_1.5b_stage3,5072,iphone 17 pro max,1.0,,,1,40,3
+1765855506190,fastvlm_1.5b_stage3,5198,iphone 17 pro max,1.0,,,1,35,3
+1765855515243,fastvlm_1.5b_stage3,5481,iphone 17 pro max,1.0,,,1,35,3
+1765855528562,fastvlm_1.5b_stage3,5300,iphone 17 pro max,1.0,,,2,35,3
+1765855541881,fastvlm_1.5b_stage3,5335,iphone 17 pro max,1.0,,,2,35,3
+1765855555246,fastvlm_1.5b_stage3,5349,iphone 17 pro max,1.0,,,2,35,3
+1765855568677,fastvlm_1.5b_stage3,5377,iphone 17 pro max,1.0,,,2,35,3
+1765855582134,fastvlm_1.5b_stage3,5401,iphone 17 pro max,1.0,,,2,35,3
+1765855595561,fastvlm_1.5b_stage3,5353,iphone 17 pro max,1.0,,,2,35,3
+1765855608934,fastvlm_1.5b_stage3,5350,iphone 17 pro max,1.0,,,2,35,3
+1765855622397,fastvlm_1.5b_stage3,5394,iphone 17 pro max,1.0,,,2,35,3
+1765855635951,fastvlm_1.5b_stage3,5447,iphone 17 pro max,1.0,,,2,35,3
+1765855649535,fastvlm_1.5b_stage3,5444,iphone 17 pro max,1.0,,,2,35,3
+1765855663194,fastvlm_1.5b_stage3,5503,iphone 17 pro max,1.0,,,2,35,3
+1765855676974,fastvlm_1.5b_stage3,5549,iphone 17 pro max,1.0,,,2,35,3
+1765855690901,fastvlm_1.5b_stage3,5642,iphone 17 pro max,1.0,,,2,35,3
+1765855704938,fastvlm_1.5b_stage3,5627,iphone 17 pro max,1.0,,,2,35,3
+1765855718967,fastvlm_1.5b_stage3,5671,iphone 17 pro max,1.0,,,2,35,3
+1765855733037,fastvlm_1.5b_stage3,5675,iphone 17 pro max,1.0,,,2,35,3
+1765855747117,fastvlm_1.5b_stage3,5685,iphone 17 pro max,1.0,,,2,35,3
+1765855761151,fastvlm_1.5b_stage3,5634,iphone 17 pro max,1.0,,,2,35,3
+1765855775281,fastvlm_1.5b_stage3,5665,iphone 17 pro max,1.0,,,2,35,3
+1765855789545,fastvlm_1.5b_stage3,5759,iphone 17 pro max,1.0,,,2,35,3
+1765855804045,fastvlm_1.5b_stage3,5810,iphone 17 pro max,1.0,,,2,35,3
+1765855818396,fastvlm_1.5b_stage3,5774,iphone 17 pro max,1.0,,,2,35,3
+1765855832796,fastvlm_1.5b_stage3,5776,iphone 17 pro max,1.0,,,2,35,3
+1765855847291,fastvlm_1.5b_stage3,5812,iphone 17 pro max,1.0,,,2,35,3
+1765855861819,fastvlm_1.5b_stage3,5829,iphone 17 pro max,1.0,,,2,35,3
+1765855876368,fastvlm_1.5b_stage3,5803,iphone 17 pro max,1.0,,,2,35,3
+1765855891006,fastvlm_1.5b_stage3,5891,iphone 17 pro max,1.0,,,2,35,3
+1765855905839,fastvlm_1.5b_stage3,5883,iphone 17 pro max,1.0,,,2,35,3
+1765855920581,fastvlm_1.5b_stage3,5874,iphone 17 pro max,1.0,,,2,35,3
+1765855935408,fastvlm_1.5b_stage3,5961,iphone 17 pro max,1.0,,,2,35,3
+1765855950189,fastvlm_1.5b_stage3,5890,iphone 17 pro max,1.0,,,2,35,3
+1765855965080,fastvlm_1.5b_stage3,5980,iphone 17 pro max,1.0,,,2,35,3
+1765855979991,fastvlm_1.5b_stage3,5957,iphone 17 pro max,1.0,,,2,35,3
+1765855995043,fastvlm_1.5b_stage3,6025,iphone 17 pro max,1.0,,,2,35,3
+1765856010227,fastvlm_1.5b_stage3,6024,iphone 17 pro max,1.0,,,2,35,3
+1765856025261,fastvlm_1.5b_stage3,5940,iphone 17 pro max,1.0,,,2,35,3
+1765856040468,fastvlm_1.5b_stage3,6007,iphone 17 pro max,1.0,,,2,35,3
+1765856055959,fastvlm_1.5b_stage3,6118,iphone 17 pro max,1.0,,,2,35,3
+1765856071244,fastvlm_1.5b_stage3,6069,iphone 17 pro max,1.0,,,2,35,3
+1765856086601,fastvlm_1.5b_stage3,6124,iphone 17 pro max,1.0,,,2,35,3
+1765856102237,fastvlm_1.5b_stage3,6225,iphone 17 pro max,1.0,,,2,35,3
+1765856117864,fastvlm_1.5b_stage3,6166,iphone 17 pro max,1.0,,,2,35,3
+1765856133303,fastvlm_1.5b_stage3,6138,iphone 17 pro max,1.0,,,2,35,3
+1765856148728,fastvlm_1.5b_stage3,6129,iphone 17 pro max,1.0,,,2,30,3
+1765856164175,fastvlm_1.5b_stage3,6141,iphone 17 pro max,1.0,,,2,30,3
+1765856179651,fastvlm_1.5b_stage3,6148,iphone 17 pro max,1.0,,,2,30,3
+1765856195184,fastvlm_1.5b_stage3,6148,iphone 17 pro max,1.0,,,2,30,3
+1765856210666,fastvlm_1.5b_stage3,6127,iphone 17 pro max,1.0,,,2,30,3
+1765856226296,fastvlm_1.5b_stage3,6222,iphone 17 pro max,1.0,,,2,30,3
+1765856241860,fastvlm_1.5b_stage3,6170,iphone 17 pro max,1.0,,,2,30,3
+1765856257417,fastvlm_1.5b_stage3,6174,iphone 17 pro max,1.0,,,2,30,3
+1765856273021,fastvlm_1.5b_stage3,6192,iphone 17 pro max,1.0,,,2,30,3
+1765856288613,fastvlm_1.5b_stage3,5992,iphone 17 pro max,1.0,,,2,30,3
+1765856304252,fastvlm_1.5b_stage3,6186,iphone 17 pro max,1.0,,,2,30,3
+1765856319886,fastvlm_1.5b_stage3,6185,iphone 17 pro max,1.0,,,2,30,3
+1765856335773,fastvlm_1.5b_stage3,6269,iphone 17 pro max,1.0,,,2,30,3
+1765856351636,fastvlm_1.5b_stage3,6232,iphone 17 pro max,1.0,,,2,30,3
+1765856367389,fastvlm_1.5b_stage3,6164,iphone 17 pro max,1.0,,,2,30,3
+1765856383272,fastvlm_1.5b_stage3,6266,iphone 17 pro max,1.0,,,2,30,3
+1765856399086,fastvlm_1.5b_stage3,6314,iphone 17 pro max,1.0,,,2,30,3
+1765856415022,fastvlm_1.5b_stage3,6231,iphone 17 pro max,1.0,,,2,30,3
+1765856430783,fastvlm_1.5b_stage3,6191,iphone 17 pro max,1.0,,,2,30,3
+1765856446604,fastvlm_1.5b_stage3,6207,iphone 17 pro max,1.0,,,2,30,3
+1765856462433,fastvlm_1.5b_stage3,6254,iphone 17 pro max,1.0,,,2,30,3
+1765856510086,fastvlm_1.5b_stage3,6354,iphone 17 pro max,1.0,,,2,30,3
+1765856525964,fastvlm_1.5b_stage3,6229,iphone 17 pro max,1.0,,,2,30,3
+1765856542079,fastvlm_1.5b_stage3,6260,iphone 17 pro max,1.0,,,2,30,3
+1765856558154,fastvlm_1.5b_stage3,6300,iphone 17 pro max,1.0,,,2,30,3
+1765856574113,fastvlm_1.5b_stage3,6308,iphone 17 pro max,1.0,,,2,30,3
+1765856590206,fastvlm_1.5b_stage3,6265,iphone 17 pro max,1.0,,,2,30,3
+1765856606291,fastvlm_1.5b_stage3,6244,iphone 17 pro max,1.0,,,2,30,3
+1765856622309,fastvlm_1.5b_stage3,6333,iphone 17 pro max,1.0,,,2,30,3
+1765856638499,fastvlm_1.5b_stage3,6387,iphone 17 pro max,1.0,,,2,30,3
+1765856654797,fastvlm_1.5b_stage3,6351,iphone 17 pro max,1.0,,,2,30,3
+1765856670786,fastvlm_1.5b_stage3,6289,iphone 17 pro max,1.0,,,2,30,3
+1765856686498,fastvlm_1.5b_stage3,6216,iphone 17 pro max,1.0,,,2,30,3
+1765856702065,fastvlm_1.5b_stage3,6183,iphone 17 pro max,1.0,,,2,30,3
+1765856717588,fastvlm_1.5b_stage3,6154,iphone 17 pro max,1.0,,,2,30,3
+1765856733024,fastvlm_1.5b_stage3,6104,iphone 17 pro max,1.0,,,2,30,3
+1765856748490,fastvlm_1.5b_stage3,6152,iphone 17 pro max,1.0,,,2,30,3
+1765856763909,fastvlm_1.5b_stage3,6103,iphone 17 pro max,1.0,,,2,30,3
+1765856779396,fastvlm_1.5b_stage3,6171,iphone 17 pro max,1.0,,,2,30,3
+1765856794986,fastvlm_1.5b_stage3,6211,iphone 17 pro max,1.0,,,2,30,3
+1765856810656,fastvlm_1.5b_stage3,6206,iphone 17 pro max,1.0,,,2,30,3
+1765856826496,fastvlm_1.5b_stage3,6268,iphone 17 pro max,1.0,,,2,25,3
+1765856842327,fastvlm_1.5b_stage3,6233,iphone 17 pro max,1.0,,,2,25,3
+1765856858113,fastvlm_1.5b_stage3,6208,iphone 17 pro max,1.0,,,2,25,3
+1765856873814,fastvlm_1.5b_stage3,6178,iphone 17 pro max,1.0,,,2,25,3
+1765856889531,fastvlm_1.5b_stage3,6228,iphone 17 pro max,1.0,,,2,25,3
+1765856905264,fastvlm_1.5b_stage3,6246,iphone 17 pro max,1.0,,,2,25,3
+1765856921077,fastvlm_1.5b_stage3,6290,iphone 17 pro max,1.0,,,2,25,3
+1765856936974,fastvlm_1.5b_stage3,6286,iphone 17 pro max,1.0,,,2,25,3
+1765856952808,fastvlm_1.5b_stage3,6092,iphone 17 pro max,1.0,,,2,25,3
+1765856968850,fastvlm_1.5b_stage3,6375,iphone 17 pro max,1.0,,,2,25,3
+1765856984930,fastvlm_1.5b_stage3,6286,iphone 17 pro max,1.0,,,2,25,3
+1765857000987,fastvlm_1.5b_stage3,6326,iphone 17 pro max,1.0,,,2,25,3
+1765857017081,fastvlm_1.5b_stage3,6352,iphone 17 pro max,1.0,,,2,25,3
+1765857033185,fastvlm_1.5b_stage3,6339,iphone 17 pro max,1.0,,,2,25,3
+1765857049321,fastvlm_1.5b_stage3,6285,iphone 17 pro max,1.0,,,2,25,3
+1765857065428,fastvlm_1.5b_stage3,6294,iphone 17 pro max,1.0,,,2,25,3
+1765857081605,fastvlm_1.5b_stage3,6370,iphone 17 pro max,1.0,,,2,25,3
+1765857097689,fastvlm_1.5b_stage3,6302,iphone 17 pro max,1.0,,,2,25,3
+1765857113810,fastvlm_1.5b_stage3,6322,iphone 17 pro max,1.0,,,2,25,3
+1765857130009,fastvlm_1.5b_stage3,6387,iphone 17 pro max,1.0,,,2,25,3
+1765857146099,fastvlm_1.5b_stage3,6290,iphone 17 pro max,1.0,,,2,25,3
+1765857162295,fastvlm_1.5b_stage3,6336,iphone 17 pro max,1.0,,,2,25,3
+1765857178525,fastvlm_1.5b_stage3,6398,iphone 17 pro max,1.0,,,2,25,3
+1765857194866,fastvlm_1.5b_stage3,6387,iphone 17 pro max,1.0,,,2,25,3
+1765857211054,fastvlm_1.5b_stage3,6341,iphone 17 pro max,1.0,,,2,25,3
+1765857227283,fastvlm_1.5b_stage3,6368,iphone 17 pro max,1.0,,,2,25,3
+1765857243381,fastvlm_1.5b_stage3,6248,iphone 17 pro max,1.0,,,2,25,3
+1765857259802,fastvlm_1.5b_stage3,6327,iphone 17 pro max,1.0,,,2,25,3
+1765857275953,fastvlm_1.5b_stage3,6303,iphone 17 pro max,1.0,,,2,25,3
+1765857292418,fastvlm_1.5b_stage3,6445,iphone 17 pro max,1.0,,,2,25,3
+1765857308733,fastvlm_1.5b_stage3,6339,iphone 17 pro max,1.0,,,2,25,3
+1765857325037,fastvlm_1.5b_stage3,6424,iphone 17 pro max,1.0,,,2,25,3
+1765857341395,fastvlm_1.5b_stage3,6418,iphone 17 pro max,1.0,,,2,25,3
+1765857357931,fastvlm_1.5b_stage3,6487,iphone 17 pro max,1.0,,,2,25,3
+1765857374434,fastvlm_1.5b_stage3,6471,iphone 17 pro max,1.0,,,2,25,3
+1765857390847,fastvlm_1.5b_stage3,6415,iphone 17 pro max,1.0,,,2,25,3
+1765857407366,fastvlm_1.5b_stage3,6413,iphone 17 pro max,1.0,,,2,25,3
+1765857423897,fastvlm_1.5b_stage3,6496,iphone 17 pro max,1.0,,,2,25,3
+1765857440433,fastvlm_1.5b_stage3,6482,iphone 17 pro max,1.0,,,2,25,3
+1765857457097,fastvlm_1.5b_stage3,6510,iphone 17 pro max,1.0,,,2,25,3
+1765857473861,fastvlm_1.5b_stage3,6557,iphone 17 pro max,1.0,,,2,25,3
+1765857490583,fastvlm_1.5b_stage3,6510,iphone 17 pro max,1.0,,,2,25,3
+1765857507257,fastvlm_1.5b_stage3,6532,iphone 17 pro max,1.0,,,2,25,3
+1765857523984,fastvlm_1.5b_stage3,6525,iphone 17 pro max,1.0,,,2,20,3
+1765857540799,fastvlm_1.5b_stage3,6572,iphone 17 pro max,1.0,,,2,20,3
+1765857557616,fastvlm_1.5b_stage3,6553,iphone 17 pro max,1.0,,,2,20,3
+1765857574367,fastvlm_1.5b_stage3,6554,iphone 17 pro max,1.0,,,2,20,3
+1765857591222,fastvlm_1.5b_stage3,6556,iphone 17 pro max,1.0,,,2,20,3
+1765857607913,fastvlm_1.5b_stage3,6495,iphone 17 pro max,1.0,,,2,20,3
+1765857624634,fastvlm_1.5b_stage3,6549,iphone 17 pro max,1.0,,,2,20,3
+1765857641345,fastvlm_1.5b_stage3,6542,iphone 17 pro max,1.0,,,2,20,3
+1765857658236,fastvlm_1.5b_stage3,6549,iphone 17 pro max,1.0,,,2,20,3
+1765857674907,fastvlm_1.5b_stage3,6518,iphone 17 pro max,1.0,,,2,20,3
+1765857691564,fastvlm_1.5b_stage3,6470,iphone 17 pro max,1.0,,,2,20,3
+1765857708179,fastvlm_1.5b_stage3,6521,iphone 17 pro max,1.0,,,2,20,3
+1765857724837,fastvlm_1.5b_stage3,6509,iphone 17 pro max,1.0,,,2,20,3
+1765857741493,fastvlm_1.5b_stage3,6513,iphone 17 pro max,1.0,,,2,20,3
+1765857758160,fastvlm_1.5b_stage3,6630,iphone 17 pro max,1.0,,,2,20,3
+1765857774738,fastvlm_1.5b_stage3,6464,iphone 17 pro max,1.0,,,2,20,3
+1765857791367,fastvlm_1.5b_stage3,6498,iphone 17 pro max,1.0,,,2,20,3
+1765857808665,fastvlm_1.5b_stage3,6728,iphone 17 pro max,1.0,,,2,20,3
+1765857825035,fastvlm_1.5b_stage3,6328,iphone 17 pro max,1.0,,,2,20,3
+1765857841761,fastvlm_1.5b_stage3,6505,iphone 17 pro max,1.0,,,2,20,3
+1765857858262,fastvlm_1.5b_stage3,6473,iphone 17 pro max,1.0,,,2,20,3
+1765857874791,fastvlm_1.5b_stage3,6483,iphone 17 pro max,1.0,,,2,20,3
+1765857891282,fastvlm_1.5b_stage3,6437,iphone 17 pro max,1.0,,,2,20,3
+1765857907786,fastvlm_1.5b_stage3,6455,iphone 17 pro max,1.0,,,2,20,3
+1765857924367,fastvlm_1.5b_stage3,6505,iphone 17 pro max,1.0,,,2,20,3
+1765857941086,fastvlm_1.5b_stage3,6589,iphone 17 pro max,1.0,,,2,20,3
+1765857957898,fastvlm_1.5b_stage3,6565,iphone 17 pro max,1.0,,,2,20,3
+1765857974630,fastvlm_1.5b_stage3,6547,iphone 17 pro max,1.0,,,2,20,3
+1765857991504,fastvlm_1.5b_stage3,6518,iphone 17 pro max,1.0,,,2,20,3
+1765858009495,fastvlm_1.5b_stage3,7541,iphone 17 pro max,1.0,,,2,20,3
+1765858026553,fastvlm_1.5b_stage3,6613,iphone 17 pro max,1.0,,,2,20,3
+1765858043575,fastvlm_1.5b_stage3,6619,iphone 17 pro max,1.0,,,2,20,3
+1765858060705,fastvlm_1.5b_stage3,6664,iphone 17 pro max,1.0,,,2,20,3
+1765858077889,fastvlm_1.5b_stage3,6714,iphone 17 pro max,1.0,,,2,20,3
+1765858095049,fastvlm_1.5b_stage3,6604,iphone 17 pro max,1.0,,,2,20,3
+1765858112218,fastvlm_1.5b_stage3,6722,iphone 17 pro max,1.0,,,2,20,3
+1765858129474,fastvlm_1.5b_stage3,6694,iphone 17 pro max,1.0,,,2,20,3
+1765858146836,fastvlm_1.5b_stage3,6704,iphone 17 pro max,1.0,,,2,20,3
+1765858164196,fastvlm_1.5b_stage3,6729,iphone 17 pro max,1.0,,,2,20,3
+1765858181582,fastvlm_1.5b_stage3,6730,iphone 17 pro max,1.0,,,2,20,3
+1765858198973,fastvlm_1.5b_stage3,6752,iphone 17 pro max,1.0,,,2,20,3
+1765858216475,fastvlm_1.5b_stage3,6802,iphone 17 pro max,1.0,,,2,20,3
+1765858234014,fastvlm_1.5b_stage3,6773,iphone 17 pro max,1.0,,,2,20,3
+1765858251618,fastvlm_1.5b_stage3,6793,iphone 17 pro max,1.0,,,2,20,3
+1765858269289,fastvlm_1.5b_stage3,6845,iphone 17 pro max,1.0,,,2,15,3
+1765858286944,fastvlm_1.5b_stage3,6795,iphone 17 pro max,1.0,,,2,15,3
+1765858304683,fastvlm_1.5b_stage3,6844,iphone 17 pro max,1.0,,,2,15,3
+1765858322487,fastvlm_1.5b_stage3,6821,iphone 17 pro max,1.0,,,2,15,3
+1765858340344,fastvlm_1.5b_stage3,6860,iphone 17 pro max,1.0,,,2,15,3
+1765858358180,fastvlm_1.5b_stage3,6839,iphone 17 pro max,1.0,,,2,15,3
+1765858376087,fastvlm_1.5b_stage3,6864,iphone 17 pro max,1.0,,,2,15,3
+1765858394010,fastvlm_1.5b_stage3,6821,iphone 17 pro max,1.0,,,2,15,3
+1765858412544,fastvlm_1.5b_stage3,6971,iphone 17 pro max,1.0,,,2,15,3
+1765858424668,fastvlm_1.5b_stage3,6903,iphone 17 pro max,1.0,,,2,15,3
+1765858442818,fastvlm_1.5b_stage3,6876,iphone 17 pro max,1.0,,,2,15,3
+1765858461514,fastvlm_1.5b_stage3,7002,iphone 17 pro max,1.0,,,2,15,3
+1765858473653,fastvlm_1.5b_stage3,6882,iphone 17 pro max,1.0,,,2,15,3
+1765858492162,fastvlm_1.5b_stage3,7132,iphone 17 pro max,1.0,,,2,15,3
+1765858510967,fastvlm_1.5b_stage3,7052,iphone 17 pro max,1.0,,,2,15,3
+1765858529546,fastvlm_1.5b_stage3,7111,iphone 17 pro max,1.0,,,2,15,3
+1765858548185,fastvlm_1.5b_stage3,7116,iphone 17 pro max,1.0,,,2,15,3
+1765858566825,fastvlm_1.5b_stage3,7104,iphone 17 pro max,1.0,,,2,15,3
+1765858585518,fastvlm_1.5b_stage3,7113,iphone 17 pro max,1.0,,,2,15,3
+1765858604297,fastvlm_1.5b_stage3,7156,iphone 17 pro max,1.0,,,2,15,3
+1765858623361,fastvlm_1.5b_stage3,7218,iphone 17 pro max,1.0,,,2,15,3
+1765858642149,fastvlm_1.5b_stage3,7121,iphone 17 pro max,1.0,,,2,15,3
+1765858661127,fastvlm_1.5b_stage3,7215,iphone 17 pro max,1.0,,,2,15,3
+1765858682222,fastvlm_1.5b_stage3,7324,iphone 17 pro max,1.0,,,2,15,3
+1765858701330,fastvlm_1.5b_stage3,7231,iphone 17 pro max,1.0,,,2,15,3
+1765858720401,fastvlm_1.5b_stage3,7199,iphone 17 pro max,1.0,,,2,15,3
+1765858739557,fastvlm_1.5b_stage3,7120,iphone 17 pro max,1.0,,,2,15,3
+1765858752205,fastvlm_1.5b_stage3,7084,iphone 17 pro max,1.0,,,2,15,3
+1765858771435,fastvlm_1.5b_stage3,7262,iphone 17 pro max,1.0,,,2,15,3
+1765858790645,fastvlm_1.5b_stage3,7220,iphone 17 pro max,1.0,,,2,15,3
+1765858809856,fastvlm_1.5b_stage3,7224,iphone 17 pro max,1.0,,,2,15,3
+1765858829140,fastvlm_1.5b_stage3,7223,iphone 17 pro max,1.0,,,2,15,3
+1765858848336,fastvlm_1.5b_stage3,7212,iphone 17 pro max,1.0,,,2,15,3
+1765858867702,fastvlm_1.5b_stage3,7320,iphone 17 pro max,1.0,,,2,15,3
+1765858887032,fastvlm_1.5b_stage3,7241,iphone 17 pro max,1.0,,,2,15,3
+1765858907363,fastvlm_1.5b_stage3,8258,iphone 17 pro max,1.0,,,2,15,3
+1765858926986,fastvlm_1.5b_stage3,7281,iphone 17 pro max,1.0,,,2,15,3
+1765858946379,fastvlm_1.5b_stage3,7232,iphone 17 pro max,1.0,,,2,15,3
+1765858965770,fastvlm_1.5b_stage3,7312,iphone 17 pro max,1.0,,,2,15,3
+1765858985315,fastvlm_1.5b_stage3,7319,iphone 17 pro max,1.0,,,2,15,3
+1765859004715,fastvlm_1.5b_stage3,7305,iphone 17 pro max,1.0,,,2,15,3
+1765859024248,fastvlm_1.5b_stage3,7318,iphone 17 pro max,1.0,,,2,15,3
+1765859043640,fastvlm_1.5b_stage3,7308,iphone 17 pro max,1.0,,,2,15,3
+1765859063046,fastvlm_1.5b_stage3,7313,iphone 17 pro max,1.0,,,2,15,3
+1765859082495,fastvlm_1.5b_stage3,7394,iphone 17 pro max,1.0,,,2,15,3
+1765859101875,fastvlm_1.5b_stage3,7305,iphone 17 pro max,1.0,,,2,15,3
+1765859114673,fastvlm_1.5b_stage3,7229,iphone 17 pro max,1.0,,,2,15,3
+1765859127385,fastvlm_1.5b_stage3,7139,iphone 17 pro max,1.0,,,2,15,3
+1765859140030,fastvlm_1.5b_stage3,7121,iphone 17 pro max,1.0,,,2,15,3
+1765859152696,fastvlm_1.5b_stage3,7149,iphone 17 pro max,1.0,,,2,15,3
+1765859165398,fastvlm_1.5b_stage3,7183,iphone 17 pro max,1.0,,,2,15,3
+1765859178118,fastvlm_1.5b_stage3,7169,iphone 17 pro max,1.0,,,2,10,3
+1765859190820,fastvlm_1.5b_stage3,7170,iphone 17 pro max,1.0,,,2,10,3
+1765859203623,fastvlm_1.5b_stage3,7218,iphone 17 pro max,1.0,,,2,10,3
+1765859216317,fastvlm_1.5b_stage3,7114,iphone 17 pro max,1.0,,,2,10,3
+1765859228981,fastvlm_1.5b_stage3,7143,iphone 17 pro max,1.0,,,2,10,3
+1765859241801,fastvlm_1.5b_stage3,7182,iphone 17 pro max,1.0,,,2,10,3
+1765859254545,fastvlm_1.5b_stage3,7202,iphone 17 pro max,1.0,,,2,10,3
+1765859267368,fastvlm_1.5b_stage3,7317,iphone 17 pro max,1.0,,,2,10,3
+1765859280021,fastvlm_1.5b_stage3,7130,iphone 17 pro max,1.0,,,2,10,3
+1765859292631,fastvlm_1.5b_stage3,7111,iphone 17 pro max,1.0,,,2,10,3
+1765859305237,fastvlm_1.5b_stage3,7103,iphone 17 pro max,1.0,,,2,10,3
+1765859324381,fastvlm_1.5b_stage3,7192,iphone 17 pro max,1.0,,,2,10,3
+1765859336940,fastvlm_1.5b_stage3,7070,iphone 17 pro max,1.0,,,2,10,3
+1765859349572,fastvlm_1.5b_stage3,7153,iphone 17 pro max,1.0,,,2,10,3
+1765859362198,fastvlm_1.5b_stage3,7115,iphone 17 pro max,1.0,,,2,10,3
+1765859381315,fastvlm_1.5b_stage3,7236,iphone 17 pro max,1.0,,,2,10,3
+1765859393958,fastvlm_1.5b_stage3,7126,iphone 17 pro max,1.0,,,2,10,3
+1765859406593,fastvlm_1.5b_stage3,7117,iphone 17 pro max,1.0,,,2,10,3
+1765859419241,fastvlm_1.5b_stage3,7153,iphone 17 pro max,1.0,,,2,10,3
+1765859431934,fastvlm_1.5b_stage3,7018,iphone 17 pro max,1.0,,,2,10,3
+1765859444593,fastvlm_1.5b_stage3,7153,iphone 17 pro max,1.0,,,2,10,3
+1765859457203,fastvlm_1.5b_stage3,6970,iphone 17 pro max,1.0,,,2,10,3
+1765859469809,fastvlm_1.5b_stage3,7115,iphone 17 pro max,1.0,,,2,10,3
+1765859482413,fastvlm_1.5b_stage3,7120,iphone 17 pro max,1.0,,,2,10,3
+1765859494891,fastvlm_1.5b_stage3,6994,iphone 17 pro max,1.0,,,2,10,3
+1765859514302,fastvlm_1.5b_stage3,7246,iphone 17 pro max,1.0,,,2,10,3
+1765859526868,fastvlm_1.5b_stage3,7086,iphone 17 pro max,1.0,,,2,10,3
+1765859546534,fastvlm_1.5b_stage3,7540,iphone 17 pro max,1.0,,,2,10,3
+1765859565963,fastvlm_1.5b_stage3,7417,iphone 17 pro max,1.0,,,2,10,3
+1765859585160,fastvlm_1.5b_stage3,7247,iphone 17 pro max,1.0,,,2,10,3
+1765859604486,fastvlm_1.5b_stage3,7237,iphone 17 pro max,1.0,,,2,10,3
+1765859623513,fastvlm_1.5b_stage3,7178,iphone 17 pro max,1.0,,,2,10,3
+1765859636130,fastvlm_1.5b_stage3,7139,iphone 17 pro max,1.0,,,2,10,3
+1765859655238,fastvlm_1.5b_stage3,7251,iphone 17 pro max,1.0,,,2,10,3
+1765859668030,fastvlm_1.5b_stage3,7200,iphone 17 pro max,1.0,,,2,10,3
+1765859680891,fastvlm_1.5b_stage3,7229,iphone 17 pro max,1.0,,,2,10,3
+1765859700214,fastvlm_1.5b_stage3,7240,iphone 17 pro max,1.0,,,2,10,3
+1765859719436,fastvlm_1.5b_stage3,7260,iphone 17 pro max,1.0,,,2,10,3
+1765859738593,fastvlm_1.5b_stage3,7230,iphone 17 pro max,1.0,,,2,10,3
+1765940094216,SmolVLM-Instruct-4bit,18863,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940119692,SmolVLM-Instruct-4bit,25474,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940149038,SmolVLM-Instruct-4bit,29345,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940179540,SmolVLM-Instruct-4bit,30501,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940209303,SmolVLM-Instruct-4bit,29762,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940239535,SmolVLM-Instruct-4bit,30231,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940270687,SmolVLM-Instruct-4bit,31151,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940302830,SmolVLM-Instruct-4bit,32142,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940334805,SmolVLM-Instruct-4bit,31974,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940366735,SmolVLM-Instruct-4bit,31929,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940399351,SmolVLM-Instruct-4bit,32615,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940432799,SmolVLM-Instruct-4bit,33447,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940466132,SmolVLM-Instruct-4bit,33332,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940499420,SmolVLM-Instruct-4bit,33288,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940532822,SmolVLM-Instruct-4bit,33401,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940566421,SmolVLM-Instruct-4bit,33598,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940600114,SmolVLM-Instruct-4bit,33691,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940633112,SmolVLM-Instruct-4bit,32997,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940654464,SmolVLM-Instruct-4bit,21351,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940678583,SmolVLM-Instruct-4bit,24118,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940703421,SmolVLM-Instruct-4bit,24837,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940728886,SmolVLM-Instruct-4bit,25464,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940754305,SmolVLM-Instruct-4bit,25418,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940779949,SmolVLM-Instruct-4bit,25644,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940805362,SmolVLM-Instruct-4bit,25412,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940830892,SmolVLM-Instruct-4bit,25530,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940856046,SmolVLM-Instruct-4bit,25152,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940881202,SmolVLM-Instruct-4bit,25155,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940906361,SmolVLM-Instruct-4bit,25158,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940931429,SmolVLM-Instruct-4bit,25067,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940956943,SmolVLM-Instruct-4bit,25513,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765940982272,SmolVLM-Instruct-4bit,25328,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941007376,SmolVLM-Instruct-4bit,25103,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941032989,SmolVLM-Instruct-4bit,25612,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941059658,SmolVLM-Instruct-4bit,26668,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941104968,SmolVLM-Instruct-4bit,45309,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941150754,SmolVLM-Instruct-4bit,45786,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941187958,SmolVLM-Instruct-4bit,37202,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941224777,SmolVLM-Instruct-4bit,36818,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941261331,SmolVLM-Instruct-4bit,36553,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941297381,SmolVLM-Instruct-4bit,36049,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941333178,SmolVLM-Instruct-4bit,35796,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941368372,SmolVLM-Instruct-4bit,35194,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941402841,SmolVLM-Instruct-4bit,34468,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941436812,SmolVLM-Instruct-4bit,33970,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941470484,SmolVLM-Instruct-4bit,33671,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941503420,SmolVLM-Instruct-4bit,32935,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941536556,SmolVLM-Instruct-4bit,33135,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941569880,SmolVLM-Instruct-4bit,33323,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941602745,SmolVLM-Instruct-4bit,32864,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941634964,SmolVLM-Instruct-4bit,32218,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941667479,SmolVLM-Instruct-4bit,32514,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941697504,SmolVLM-Instruct-4bit,30024,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941718979,SmolVLM-Instruct-4bit,21475,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,4
+1765941746543,SmolVLM-Instruct-4bit,27563,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941776530,SmolVLM-Instruct-4bit,29985,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941801794,SmolVLM-Instruct-4bit,25263,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941827054,SmolVLM-Instruct-4bit,25260,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941854508,SmolVLM-Instruct-4bit,27452,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941886169,SmolVLM-Instruct-4bit,31661,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941920787,SmolVLM-Instruct-4bit,34617,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941954084,SmolVLM-Instruct-4bit,33296,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765941986070,SmolVLM-Instruct-4bit,31985,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942018547,SmolVLM-Instruct-4bit,32476,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942047059,SmolVLM-Instruct-4bit,28511,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942079294,SmolVLM-Instruct-4bit,32234,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942114610,SmolVLM-Instruct-4bit,35315,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942148022,SmolVLM-Instruct-4bit,33411,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942180861,SmolVLM-Instruct-4bit,32838,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942213929,SmolVLM-Instruct-4bit,33067,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942247610,SmolVLM-Instruct-4bit,33680,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942280567,SmolVLM-Instruct-4bit,32956,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942313679,SmolVLM-Instruct-4bit,33112,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942346462,SmolVLM-Instruct-4bit,32782,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942379341,SmolVLM-Instruct-4bit,32878,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,4
+1765942411886,SmolVLM-Instruct-4bit,32543,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942444411,SmolVLM-Instruct-4bit,32524,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942476776,SmolVLM-Instruct-4bit,32364,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942509125,SmolVLM-Instruct-4bit,32347,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942540847,SmolVLM-Instruct-4bit,31721,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942572562,SmolVLM-Instruct-4bit,31714,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942604420,SmolVLM-Instruct-4bit,31856,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942636558,SmolVLM-Instruct-4bit,32137,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942668301,SmolVLM-Instruct-4bit,31742,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942700407,SmolVLM-Instruct-4bit,32105,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942732389,SmolVLM-Instruct-4bit,31981,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942764583,SmolVLM-Instruct-4bit,32193,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942796689,SmolVLM-Instruct-4bit,32104,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942828881,SmolVLM-Instruct-4bit,32191,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942861344,SmolVLM-Instruct-4bit,32463,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942893655,SmolVLM-Instruct-4bit,32311,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942925905,SmolVLM-Instruct-4bit,32248,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942958474,SmolVLM-Instruct-4bit,32569,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765942991010,SmolVLM-Instruct-4bit,32535,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765943023962,SmolVLM-Instruct-4bit,32951,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765943056788,SmolVLM-Instruct-4bit,32826,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,4
+1765943089962,SmolVLM-Instruct-4bit,33172,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943123177,SmolVLM-Instruct-4bit,33214,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943156385,SmolVLM-Instruct-4bit,33207,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943189485,SmolVLM-Instruct-4bit,33099,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943223157,SmolVLM-Instruct-4bit,33672,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943256727,SmolVLM-Instruct-4bit,33569,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943290504,SmolVLM-Instruct-4bit,33776,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943324453,SmolVLM-Instruct-4bit,33947,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943358572,SmolVLM-Instruct-4bit,34119,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943392540,SmolVLM-Instruct-4bit,33967,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943426601,SmolVLM-Instruct-4bit,34060,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943460880,SmolVLM-Instruct-4bit,34278,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943495076,SmolVLM-Instruct-4bit,34195,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943529350,SmolVLM-Instruct-4bit,34273,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943563644,SmolVLM-Instruct-4bit,34293,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943598116,SmolVLM-Instruct-4bit,34471,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943632358,SmolVLM-Instruct-4bit,34242,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943666703,SmolVLM-Instruct-4bit,34343,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943700986,SmolVLM-Instruct-4bit,34282,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943735393,SmolVLM-Instruct-4bit,34407,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,4
+1765943769783,SmolVLM-Instruct-4bit,34389,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765943804134,SmolVLM-Instruct-4bit,34351,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765943838480,SmolVLM-Instruct-4bit,34344,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765943872741,SmolVLM-Instruct-4bit,34261,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765943907224,SmolVLM-Instruct-4bit,34482,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765943941837,SmolVLM-Instruct-4bit,34612,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765943976216,SmolVLM-Instruct-4bit,34378,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944010527,SmolVLM-Instruct-4bit,34310,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944044747,SmolVLM-Instruct-4bit,34219,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944079066,SmolVLM-Instruct-4bit,34318,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944113468,SmolVLM-Instruct-4bit,34402,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944147965,SmolVLM-Instruct-4bit,34496,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944182033,SmolVLM-Instruct-4bit,34066,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944216201,SmolVLM-Instruct-4bit,34168,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944250486,SmolVLM-Instruct-4bit,34284,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944284766,SmolVLM-Instruct-4bit,34280,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944318981,SmolVLM-Instruct-4bit,34214,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944353195,SmolVLM-Instruct-4bit,34213,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944387672,SmolVLM-Instruct-4bit,34476,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944421750,SmolVLM-Instruct-4bit,34077,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,4
+1765944455817,SmolVLM-Instruct-4bit,34067,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944489719,SmolVLM-Instruct-4bit,33900,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944523553,SmolVLM-Instruct-4bit,33833,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944557054,SmolVLM-Instruct-4bit,33500,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944590821,SmolVLM-Instruct-4bit,33766,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944623408,SmolVLM-Instruct-4bit,32586,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944658420,SmolVLM-Instruct-4bit,35011,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944695013,SmolVLM-Instruct-4bit,36592,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944729769,SmolVLM-Instruct-4bit,34755,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944763932,SmolVLM-Instruct-4bit,34162,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944798113,SmolVLM-Instruct-4bit,34180,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944831619,SmolVLM-Instruct-4bit,33506,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944864407,SmolVLM-Instruct-4bit,32786,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944897815,SmolVLM-Instruct-4bit,33407,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944931502,SmolVLM-Instruct-4bit,33687,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944964637,SmolVLM-Instruct-4bit,33134,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765944998055,SmolVLM-Instruct-4bit,33417,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765945031192,SmolVLM-Instruct-4bit,33136,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765945063886,SmolVLM-Instruct-4bit,32694,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765945096291,SmolVLM-Instruct-4bit,32404,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,4
+1765945129092,SmolVLM-Instruct-4bit,32800,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945161344,SmolVLM-Instruct-4bit,32250,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945193441,SmolVLM-Instruct-4bit,32097,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945225382,SmolVLM-Instruct-4bit,31939,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945257523,SmolVLM-Instruct-4bit,32140,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945289176,SmolVLM-Instruct-4bit,31652,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945320842,SmolVLM-Instruct-4bit,31666,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945352763,SmolVLM-Instruct-4bit,31920,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945384637,SmolVLM-Instruct-4bit,31873,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945416635,SmolVLM-Instruct-4bit,31997,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945448510,SmolVLM-Instruct-4bit,31874,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945480652,SmolVLM-Instruct-4bit,32141,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945512615,SmolVLM-Instruct-4bit,31962,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945544741,SmolVLM-Instruct-4bit,32126,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945576775,SmolVLM-Instruct-4bit,32033,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945608962,SmolVLM-Instruct-4bit,32186,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945641169,SmolVLM-Instruct-4bit,32206,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945673455,SmolVLM-Instruct-4bit,32285,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945706024,SmolVLM-Instruct-4bit,32568,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,4
+1765945738617,SmolVLM-Instruct-4bit,32592,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765945771301,SmolVLM-Instruct-4bit,32683,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765945803953,SmolVLM-Instruct-4bit,32651,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765945836685,SmolVLM-Instruct-4bit,32732,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765945869633,SmolVLM-Instruct-4bit,32947,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765945902804,SmolVLM-Instruct-4bit,33170,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765945936215,SmolVLM-Instruct-4bit,33411,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765945969447,SmolVLM-Instruct-4bit,33231,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946002834,SmolVLM-Instruct-4bit,33386,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946036303,SmolVLM-Instruct-4bit,33468,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946070131,SmolVLM-Instruct-4bit,33828,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946103857,SmolVLM-Instruct-4bit,33725,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946137792,SmolVLM-Instruct-4bit,33934,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946171786,SmolVLM-Instruct-4bit,33993,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946206127,SmolVLM-Instruct-4bit,34340,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946240083,SmolVLM-Instruct-4bit,33956,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946274088,SmolVLM-Instruct-4bit,34003,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946307939,SmolVLM-Instruct-4bit,33851,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946341650,SmolVLM-Instruct-4bit,33710,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,4
+1765946375178,SmolVLM-Instruct-4bit,33527,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946409014,SmolVLM-Instruct-4bit,33835,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946442700,SmolVLM-Instruct-4bit,33685,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946476227,SmolVLM-Instruct-4bit,33526,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946509854,SmolVLM-Instruct-4bit,33627,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946543493,SmolVLM-Instruct-4bit,33637,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946577063,SmolVLM-Instruct-4bit,33569,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946610497,SmolVLM-Instruct-4bit,33434,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946643988,SmolVLM-Instruct-4bit,33490,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946677568,SmolVLM-Instruct-4bit,33579,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946710896,SmolVLM-Instruct-4bit,33327,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946744520,SmolVLM-Instruct-4bit,33623,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946777894,SmolVLM-Instruct-4bit,33373,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946811374,SmolVLM-Instruct-4bit,33479,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946845018,SmolVLM-Instruct-4bit,33643,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946878786,SmolVLM-Instruct-4bit,33767,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946912318,SmolVLM-Instruct-4bit,33531,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946945907,SmolVLM-Instruct-4bit,33588,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765946979767,SmolVLM-Instruct-4bit,33859,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765947013339,SmolVLM-Instruct-4bit,33570,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,4
+1765947046773,SmolVLM-Instruct-4bit,33434,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947080653,SmolVLM-Instruct-4bit,33878,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947114269,SmolVLM-Instruct-4bit,33616,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947147890,SmolVLM-Instruct-4bit,33620,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947181268,SmolVLM-Instruct-4bit,33377,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947214651,SmolVLM-Instruct-4bit,33383,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947247772,SmolVLM-Instruct-4bit,33119,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947280950,SmolVLM-Instruct-4bit,33178,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947314207,SmolVLM-Instruct-4bit,33256,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947347174,SmolVLM-Instruct-4bit,32966,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947379888,SmolVLM-Instruct-4bit,32713,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947412946,SmolVLM-Instruct-4bit,33057,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947445695,SmolVLM-Instruct-4bit,32749,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947478775,SmolVLM-Instruct-4bit,33079,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947511609,SmolVLM-Instruct-4bit,32834,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947544783,SmolVLM-Instruct-4bit,33173,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947577825,SmolVLM-Instruct-4bit,33040,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947610592,SmolVLM-Instruct-4bit,32766,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947643456,SmolVLM-Instruct-4bit,32863,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,4
+1765947676425,SmolVLM-Instruct-4bit,32969,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947709429,SmolVLM-Instruct-4bit,33003,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947742434,SmolVLM-Instruct-4bit,33004,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947775257,SmolVLM-Instruct-4bit,32823,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947808285,SmolVLM-Instruct-4bit,33027,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947841513,SmolVLM-Instruct-4bit,33227,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947874440,SmolVLM-Instruct-4bit,32926,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947907541,SmolVLM-Instruct-4bit,33101,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947940588,SmolVLM-Instruct-4bit,33046,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765947973864,SmolVLM-Instruct-4bit,33275,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948006881,SmolVLM-Instruct-4bit,33016,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948039944,SmolVLM-Instruct-4bit,33062,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948072970,SmolVLM-Instruct-4bit,33025,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948105495,SmolVLM-Instruct-4bit,32525,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948138215,SmolVLM-Instruct-4bit,32719,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948170676,SmolVLM-Instruct-4bit,32460,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948203258,SmolVLM-Instruct-4bit,32581,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948236152,SmolVLM-Instruct-4bit,32893,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,4
+1765948268696,SmolVLM-Instruct-4bit,32544,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948301669,SmolVLM-Instruct-4bit,32972,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948334640,SmolVLM-Instruct-4bit,32970,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948367408,SmolVLM-Instruct-4bit,32767,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948400353,SmolVLM-Instruct-4bit,32944,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948433336,SmolVLM-Instruct-4bit,32983,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948466084,SmolVLM-Instruct-4bit,32746,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948499307,SmolVLM-Instruct-4bit,33222,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948532246,SmolVLM-Instruct-4bit,32938,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948565576,SmolVLM-Instruct-4bit,33329,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948598727,SmolVLM-Instruct-4bit,33150,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948631895,SmolVLM-Instruct-4bit,33167,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948665082,SmolVLM-Instruct-4bit,33186,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948698809,SmolVLM-Instruct-4bit,33725,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948732013,SmolVLM-Instruct-4bit,33204,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948765378,SmolVLM-Instruct-4bit,33363,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948798724,SmolVLM-Instruct-4bit,33346,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948831824,SmolVLM-Instruct-4bit,33099,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948864944,SmolVLM-Instruct-4bit,33119,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,4
+1765948898132,SmolVLM-Instruct-4bit,33187,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765948931052,SmolVLM-Instruct-4bit,32920,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765948963955,SmolVLM-Instruct-4bit,32902,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765948996635,SmolVLM-Instruct-4bit,32678,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949029533,SmolVLM-Instruct-4bit,32898,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949062395,SmolVLM-Instruct-4bit,32861,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949095209,SmolVLM-Instruct-4bit,32813,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949127672,SmolVLM-Instruct-4bit,32462,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949160327,SmolVLM-Instruct-4bit,32655,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949192495,SmolVLM-Instruct-4bit,32167,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949224700,SmolVLM-Instruct-4bit,32204,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949257274,SmolVLM-Instruct-4bit,32573,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949289560,SmolVLM-Instruct-4bit,32285,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949321842,SmolVLM-Instruct-4bit,32280,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949354140,SmolVLM-Instruct-4bit,32297,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949386431,SmolVLM-Instruct-4bit,32290,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949418722,SmolVLM-Instruct-4bit,32290,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949450976,SmolVLM-Instruct-4bit,32254,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949483563,SmolVLM-Instruct-4bit,32586,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,4
+1765949515913,SmolVLM-Instruct-4bit,32349,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949548097,SmolVLM-Instruct-4bit,32183,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949580498,SmolVLM-Instruct-4bit,32401,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949612849,SmolVLM-Instruct-4bit,32350,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949645303,SmolVLM-Instruct-4bit,32453,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949677580,SmolVLM-Instruct-4bit,32276,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949710024,SmolVLM-Instruct-4bit,32443,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949742226,SmolVLM-Instruct-4bit,32201,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949774848,SmolVLM-Instruct-4bit,32622,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949807524,SmolVLM-Instruct-4bit,32675,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949839976,SmolVLM-Instruct-4bit,32451,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949872861,SmolVLM-Instruct-4bit,32885,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949905792,SmolVLM-Instruct-4bit,32930,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949938395,SmolVLM-Instruct-4bit,32602,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765949971154,SmolVLM-Instruct-4bit,32758,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765950003594,SmolVLM-Instruct-4bit,32439,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,4
+1765954771904,Qwen3-VL-4B-Instruct-4bit,12058,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,5
+1765954782955,Qwen3-VL-4B-Instruct-4bit,11039,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,5
+1765954794403,Qwen3-VL-4B-Instruct-4bit,11445,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,5
+1765954806160,Qwen3-VL-4B-Instruct-4bit,11753,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,5
+1765954818106,Qwen3-VL-4B-Instruct-4bit,11943,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,5
+1765954830540,Qwen3-VL-4B-Instruct-4bit,12431,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954843251,Qwen3-VL-4B-Instruct-4bit,12707,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954856365,Qwen3-VL-4B-Instruct-4bit,13112,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954869635,Qwen3-VL-4B-Instruct-4bit,13265,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954883027,Qwen3-VL-4B-Instruct-4bit,13389,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954896500,Qwen3-VL-4B-Instruct-4bit,13471,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954910100,Qwen3-VL-4B-Instruct-4bit,13598,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954923842,Qwen3-VL-4B-Instruct-4bit,13741,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954937640,Qwen3-VL-4B-Instruct-4bit,13796,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954951466,Qwen3-VL-4B-Instruct-4bit,13823,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954965383,Qwen3-VL-4B-Instruct-4bit,13915,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954979277,Qwen3-VL-4B-Instruct-4bit,13891,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765954993140,Qwen3-VL-4B-Instruct-4bit,13861,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765955007096,Qwen3-VL-4B-Instruct-4bit,13954,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765955021171,Qwen3-VL-4B-Instruct-4bit,14072,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765955035550,Qwen3-VL-4B-Instruct-4bit,14377,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,5
+1765955050287,Qwen3-VL-4B-Instruct-4bit,14735,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955065002,Qwen3-VL-4B-Instruct-4bit,14712,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955079909,Qwen3-VL-4B-Instruct-4bit,14905,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955094852,Qwen3-VL-4B-Instruct-4bit,14941,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955109914,Qwen3-VL-4B-Instruct-4bit,15060,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955125509,Qwen3-VL-4B-Instruct-4bit,15593,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955140876,Qwen3-VL-4B-Instruct-4bit,15364,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955155758,Qwen3-VL-4B-Instruct-4bit,14879,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955170311,Qwen3-VL-4B-Instruct-4bit,14552,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955184410,Qwen3-VL-4B-Instruct-4bit,14096,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955198450,Qwen3-VL-4B-Instruct-4bit,14038,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955212928,Qwen3-VL-4B-Instruct-4bit,14477,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955227840,Qwen3-VL-4B-Instruct-4bit,14910,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955242862,Qwen3-VL-4B-Instruct-4bit,15020,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955257843,Qwen3-VL-4B-Instruct-4bit,14978,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955272581,Qwen3-VL-4B-Instruct-4bit,14736,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955287254,Qwen3-VL-4B-Instruct-4bit,14671,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955301867,Qwen3-VL-4B-Instruct-4bit,14611,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955316388,Qwen3-VL-4B-Instruct-4bit,14519,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955330765,Qwen3-VL-4B-Instruct-4bit,14376,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955345057,Qwen3-VL-4B-Instruct-4bit,14290,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955359406,Qwen3-VL-4B-Instruct-4bit,14348,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955380143,Qwen3-VL-4B-Instruct-4bit,20735,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955400686,Qwen3-VL-4B-Instruct-4bit,20541,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955414816,Qwen3-VL-4B-Instruct-4bit,14126,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955435231,Qwen3-VL-4B-Instruct-4bit,20414,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955449315,Qwen3-VL-4B-Instruct-4bit,14081,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955463431,Qwen3-VL-4B-Instruct-4bit,14113,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955483734,Qwen3-VL-4B-Instruct-4bit,20300,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955503975,Qwen3-VL-4B-Instruct-4bit,20238,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955517989,Qwen3-VL-4B-Instruct-4bit,14011,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955538592,Qwen3-VL-4B-Instruct-4bit,20601,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955552716,Qwen3-VL-4B-Instruct-4bit,14122,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955567004,Qwen3-VL-4B-Instruct-4bit,14286,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955587168,Qwen3-VL-4B-Instruct-4bit,20161,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955601142,Qwen3-VL-4B-Instruct-4bit,13971,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955615315,Qwen3-VL-4B-Instruct-4bit,14171,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955629510,Qwen3-VL-4B-Instruct-4bit,14193,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955643744,Qwen3-VL-4B-Instruct-4bit,14230,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955657916,Qwen3-VL-4B-Instruct-4bit,14169,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955671962,Qwen3-VL-4B-Instruct-4bit,14043,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955686179,Qwen3-VL-4B-Instruct-4bit,14215,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955700373,Qwen3-VL-4B-Instruct-4bit,14192,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955714468,Qwen3-VL-4B-Instruct-4bit,14092,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955728776,Qwen3-VL-4B-Instruct-4bit,14306,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955742982,Qwen3-VL-4B-Instruct-4bit,14202,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955757364,Qwen3-VL-4B-Instruct-4bit,14378,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955771484,Qwen3-VL-4B-Instruct-4bit,14117,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955785709,Qwen3-VL-4B-Instruct-4bit,14223,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955800017,Qwen3-VL-4B-Instruct-4bit,14304,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955814134,Qwen3-VL-4B-Instruct-4bit,14115,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955828402,Qwen3-VL-4B-Instruct-4bit,14266,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955842568,Qwen3-VL-4B-Instruct-4bit,14164,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955856823,Qwen3-VL-4B-Instruct-4bit,14252,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955871068,Qwen3-VL-4B-Instruct-4bit,14241,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955885482,Qwen3-VL-4B-Instruct-4bit,14412,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955899846,Qwen3-VL-4B-Instruct-4bit,14362,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955914278,Qwen3-VL-4B-Instruct-4bit,14428,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955928800,Qwen3-VL-4B-Instruct-4bit,14520,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955943175,Qwen3-VL-4B-Instruct-4bit,14370,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955957535,Qwen3-VL-4B-Instruct-4bit,14359,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955971914,Qwen3-VL-4B-Instruct-4bit,14377,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765955992556,Qwen3-VL-4B-Instruct-4bit,20638,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765956013280,Qwen3-VL-4B-Instruct-4bit,20721,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,5
+1765956034152,Qwen3-VL-4B-Instruct-4bit,20870,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956055108,Qwen3-VL-4B-Instruct-4bit,20953,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956076275,Qwen3-VL-4B-Instruct-4bit,21164,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956097398,Qwen3-VL-4B-Instruct-4bit,21119,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956118602,Qwen3-VL-4B-Instruct-4bit,21202,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956139875,Qwen3-VL-4B-Instruct-4bit,21268,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956161142,Qwen3-VL-4B-Instruct-4bit,21264,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956182403,Qwen3-VL-4B-Instruct-4bit,21258,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956203557,Qwen3-VL-4B-Instruct-4bit,21152,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956224872,Qwen3-VL-4B-Instruct-4bit,21313,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956246198,Qwen3-VL-4B-Instruct-4bit,21323,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956267605,Qwen3-VL-4B-Instruct-4bit,21404,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956289028,Qwen3-VL-4B-Instruct-4bit,21420,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956310376,Qwen3-VL-4B-Instruct-4bit,21346,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956331910,Qwen3-VL-4B-Instruct-4bit,21531,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956353299,Qwen3-VL-4B-Instruct-4bit,21386,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956374661,Qwen3-VL-4B-Instruct-4bit,21359,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956396014,Qwen3-VL-4B-Instruct-4bit,21351,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956417512,Qwen3-VL-4B-Instruct-4bit,21494,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956438884,Qwen3-VL-4B-Instruct-4bit,21369,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956460282,Qwen3-VL-4B-Instruct-4bit,21396,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956481756,Qwen3-VL-4B-Instruct-4bit,21471,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956503230,Qwen3-VL-4B-Instruct-4bit,21471,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956524721,Qwen3-VL-4B-Instruct-4bit,21488,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956546357,Qwen3-VL-4B-Instruct-4bit,21634,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956567928,Qwen3-VL-4B-Instruct-4bit,21568,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956589481,Qwen3-VL-4B-Instruct-4bit,21551,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956610998,Qwen3-VL-4B-Instruct-4bit,21515,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956632666,Qwen3-VL-4B-Instruct-4bit,21666,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956654241,Qwen3-VL-4B-Instruct-4bit,21572,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,5
+1765956675960,Qwen3-VL-4B-Instruct-4bit,21716,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956697692,Qwen3-VL-4B-Instruct-4bit,21730,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956719496,Qwen3-VL-4B-Instruct-4bit,21802,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956741314,Qwen3-VL-4B-Instruct-4bit,21816,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956763140,Qwen3-VL-4B-Instruct-4bit,21823,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956785101,Qwen3-VL-4B-Instruct-4bit,21959,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956807113,Qwen3-VL-4B-Instruct-4bit,22010,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956829091,Qwen3-VL-4B-Instruct-4bit,21975,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956851139,Qwen3-VL-4B-Instruct-4bit,22046,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956873340,Qwen3-VL-4B-Instruct-4bit,22199,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956895579,Qwen3-VL-4B-Instruct-4bit,22236,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956918199,Qwen3-VL-4B-Instruct-4bit,22617,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956940570,Qwen3-VL-4B-Instruct-4bit,22369,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956962924,Qwen3-VL-4B-Instruct-4bit,22351,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765956985235,Qwen3-VL-4B-Instruct-4bit,22308,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957007575,Qwen3-VL-4B-Instruct-4bit,22337,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957029918,Qwen3-VL-4B-Instruct-4bit,22341,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957052243,Qwen3-VL-4B-Instruct-4bit,22322,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957074547,Qwen3-VL-4B-Instruct-4bit,22302,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957096766,Qwen3-VL-4B-Instruct-4bit,22217,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957118889,Qwen3-VL-4B-Instruct-4bit,22121,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957141248,Qwen3-VL-4B-Instruct-4bit,22357,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957163713,Qwen3-VL-4B-Instruct-4bit,22462,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957186065,Qwen3-VL-4B-Instruct-4bit,22349,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957208450,Qwen3-VL-4B-Instruct-4bit,22382,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957230767,Qwen3-VL-4B-Instruct-4bit,22315,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957253097,Qwen3-VL-4B-Instruct-4bit,22326,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957275444,Qwen3-VL-4B-Instruct-4bit,22344,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957297737,Qwen3-VL-4B-Instruct-4bit,22290,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957320035,Qwen3-VL-4B-Instruct-4bit,22293,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,5
+1765957342297,Qwen3-VL-4B-Instruct-4bit,22260,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957364190,Qwen3-VL-4B-Instruct-4bit,21890,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957386286,Qwen3-VL-4B-Instruct-4bit,22093,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957408431,Qwen3-VL-4B-Instruct-4bit,22142,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957430476,Qwen3-VL-4B-Instruct-4bit,22043,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957452590,Qwen3-VL-4B-Instruct-4bit,22111,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957474716,Qwen3-VL-4B-Instruct-4bit,22123,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957496773,Qwen3-VL-4B-Instruct-4bit,22055,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957518781,Qwen3-VL-4B-Instruct-4bit,22002,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957540675,Qwen3-VL-4B-Instruct-4bit,21890,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957562671,Qwen3-VL-4B-Instruct-4bit,21993,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957584673,Qwen3-VL-4B-Instruct-4bit,21999,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957606649,Qwen3-VL-4B-Instruct-4bit,21973,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957628744,Qwen3-VL-4B-Instruct-4bit,22091,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957650733,Qwen3-VL-4B-Instruct-4bit,21987,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957672765,Qwen3-VL-4B-Instruct-4bit,22029,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957694852,Qwen3-VL-4B-Instruct-4bit,22084,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957716915,Qwen3-VL-4B-Instruct-4bit,22061,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957738937,Qwen3-VL-4B-Instruct-4bit,22019,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957760962,Qwen3-VL-4B-Instruct-4bit,22023,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957783207,Qwen3-VL-4B-Instruct-4bit,22239,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957805331,Qwen3-VL-4B-Instruct-4bit,22122,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957827438,Qwen3-VL-4B-Instruct-4bit,22105,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957849517,Qwen3-VL-4B-Instruct-4bit,22073,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957871740,Qwen3-VL-4B-Instruct-4bit,22221,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957893856,Qwen3-VL-4B-Instruct-4bit,22113,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957916016,Qwen3-VL-4B-Instruct-4bit,22158,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957938103,Qwen3-VL-4B-Instruct-4bit,22084,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957960177,Qwen3-VL-4B-Instruct-4bit,22071,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765957982397,Qwen3-VL-4B-Instruct-4bit,22217,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,5
+1765958004589,Qwen3-VL-4B-Instruct-4bit,22189,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958026794,Qwen3-VL-4B-Instruct-4bit,22203,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958048834,Qwen3-VL-4B-Instruct-4bit,22037,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958070921,Qwen3-VL-4B-Instruct-4bit,22083,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958093085,Qwen3-VL-4B-Instruct-4bit,22158,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958115267,Qwen3-VL-4B-Instruct-4bit,22178,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958137442,Qwen3-VL-4B-Instruct-4bit,22172,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958159710,Qwen3-VL-4B-Instruct-4bit,22265,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958182004,Qwen3-VL-4B-Instruct-4bit,22292,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958204179,Qwen3-VL-4B-Instruct-4bit,22172,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958226388,Qwen3-VL-4B-Instruct-4bit,22206,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958248612,Qwen3-VL-4B-Instruct-4bit,22218,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958270803,Qwen3-VL-4B-Instruct-4bit,22188,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958293030,Qwen3-VL-4B-Instruct-4bit,22225,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958315231,Qwen3-VL-4B-Instruct-4bit,22198,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958337449,Qwen3-VL-4B-Instruct-4bit,22216,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958359590,Qwen3-VL-4B-Instruct-4bit,22135,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958381875,Qwen3-VL-4B-Instruct-4bit,22281,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958404029,Qwen3-VL-4B-Instruct-4bit,22151,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958426147,Qwen3-VL-4B-Instruct-4bit,22115,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958448248,Qwen3-VL-4B-Instruct-4bit,22098,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958470241,Qwen3-VL-4B-Instruct-4bit,21990,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958492219,Qwen3-VL-4B-Instruct-4bit,21975,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958514095,Qwen3-VL-4B-Instruct-4bit,21873,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958535943,Qwen3-VL-4B-Instruct-4bit,21846,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958557784,Qwen3-VL-4B-Instruct-4bit,21838,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958579613,Qwen3-VL-4B-Instruct-4bit,21827,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958601368,Qwen3-VL-4B-Instruct-4bit,21752,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958623019,Qwen3-VL-4B-Instruct-4bit,21648,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958644730,Qwen3-VL-4B-Instruct-4bit,21706,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,5
+1765958666541,Qwen3-VL-4B-Instruct-4bit,21809,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958688106,Qwen3-VL-4B-Instruct-4bit,21561,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958709704,Qwen3-VL-4B-Instruct-4bit,21596,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958731473,Qwen3-VL-4B-Instruct-4bit,21764,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958753106,Qwen3-VL-4B-Instruct-4bit,21631,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958774872,Qwen3-VL-4B-Instruct-4bit,21763,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958796569,Qwen3-VL-4B-Instruct-4bit,21695,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958818261,Qwen3-VL-4B-Instruct-4bit,21689,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958839853,Qwen3-VL-4B-Instruct-4bit,21589,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958861568,Qwen3-VL-4B-Instruct-4bit,21713,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958883280,Qwen3-VL-4B-Instruct-4bit,21709,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958904985,Qwen3-VL-4B-Instruct-4bit,21700,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958926650,Qwen3-VL-4B-Instruct-4bit,21660,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958948329,Qwen3-VL-4B-Instruct-4bit,21674,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958970012,Qwen3-VL-4B-Instruct-4bit,21680,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765958991689,Qwen3-VL-4B-Instruct-4bit,21675,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959013332,Qwen3-VL-4B-Instruct-4bit,21640,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959035002,Qwen3-VL-4B-Instruct-4bit,21665,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959056725,Qwen3-VL-4B-Instruct-4bit,21720,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959078426,Qwen3-VL-4B-Instruct-4bit,21698,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959099677,Qwen3-VL-4B-Instruct-4bit,21248,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959121242,Qwen3-VL-4B-Instruct-4bit,21563,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959142918,Qwen3-VL-4B-Instruct-4bit,21674,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959164539,Qwen3-VL-4B-Instruct-4bit,21617,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959186214,Qwen3-VL-4B-Instruct-4bit,21671,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959207956,Qwen3-VL-4B-Instruct-4bit,21736,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959229081,Qwen3-VL-4B-Instruct-4bit,21122,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959250685,Qwen3-VL-4B-Instruct-4bit,21598,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959272289,Qwen3-VL-4B-Instruct-4bit,21600,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,5
+1765959293949,Qwen3-VL-4B-Instruct-4bit,21657,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959315539,Qwen3-VL-4B-Instruct-4bit,21587,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959337222,Qwen3-VL-4B-Instruct-4bit,21680,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959358916,Qwen3-VL-4B-Instruct-4bit,21691,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959380622,Qwen3-VL-4B-Instruct-4bit,21703,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959402217,Qwen3-VL-4B-Instruct-4bit,21592,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959423915,Qwen3-VL-4B-Instruct-4bit,21695,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959445536,Qwen3-VL-4B-Instruct-4bit,21616,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959467271,Qwen3-VL-4B-Instruct-4bit,21732,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959488854,Qwen3-VL-4B-Instruct-4bit,21580,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959510529,Qwen3-VL-4B-Instruct-4bit,21670,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959532240,Qwen3-VL-4B-Instruct-4bit,21708,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959554003,Qwen3-VL-4B-Instruct-4bit,21760,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959575866,Qwen3-VL-4B-Instruct-4bit,21859,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959597713,Qwen3-VL-4B-Instruct-4bit,21844,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959619570,Qwen3-VL-4B-Instruct-4bit,21854,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959641474,Qwen3-VL-4B-Instruct-4bit,21901,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959663405,Qwen3-VL-4B-Instruct-4bit,21928,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959685284,Qwen3-VL-4B-Instruct-4bit,21876,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959707350,Qwen3-VL-4B-Instruct-4bit,22063,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959729375,Qwen3-VL-4B-Instruct-4bit,22019,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959751354,Qwen3-VL-4B-Instruct-4bit,21974,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959773399,Qwen3-VL-4B-Instruct-4bit,22041,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959795476,Qwen3-VL-4B-Instruct-4bit,22072,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959817542,Qwen3-VL-4B-Instruct-4bit,22063,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959839674,Qwen3-VL-4B-Instruct-4bit,22129,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959861840,Qwen3-VL-4B-Instruct-4bit,22163,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959884064,Qwen3-VL-4B-Instruct-4bit,22220,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,5
+1765959906288,Qwen3-VL-4B-Instruct-4bit,22221,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765959928530,Qwen3-VL-4B-Instruct-4bit,22239,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765959950821,Qwen3-VL-4B-Instruct-4bit,22287,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765959973216,Qwen3-VL-4B-Instruct-4bit,22391,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765959995637,Qwen3-VL-4B-Instruct-4bit,22418,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960017937,Qwen3-VL-4B-Instruct-4bit,22294,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960040325,Qwen3-VL-4B-Instruct-4bit,22385,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960062677,Qwen3-VL-4B-Instruct-4bit,22346,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960085039,Qwen3-VL-4B-Instruct-4bit,22360,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960107403,Qwen3-VL-4B-Instruct-4bit,22360,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960129774,Qwen3-VL-4B-Instruct-4bit,22367,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960152095,Qwen3-VL-4B-Instruct-4bit,22319,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960174420,Qwen3-VL-4B-Instruct-4bit,22321,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960196815,Qwen3-VL-4B-Instruct-4bit,22391,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960219095,Qwen3-VL-4B-Instruct-4bit,22276,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960241325,Qwen3-VL-4B-Instruct-4bit,22227,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960263544,Qwen3-VL-4B-Instruct-4bit,22215,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960285719,Qwen3-VL-4B-Instruct-4bit,22172,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960307884,Qwen3-VL-4B-Instruct-4bit,22160,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960330082,Qwen3-VL-4B-Instruct-4bit,22192,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960352246,Qwen3-VL-4B-Instruct-4bit,22160,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960374470,Qwen3-VL-4B-Instruct-4bit,22222,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960396656,Qwen3-VL-4B-Instruct-4bit,22182,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960418838,Qwen3-VL-4B-Instruct-4bit,22178,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960441031,Qwen3-VL-4B-Instruct-4bit,22190,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960463208,Qwen3-VL-4B-Instruct-4bit,22173,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960485457,Qwen3-VL-4B-Instruct-4bit,22245,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960507730,Qwen3-VL-4B-Instruct-4bit,22270,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960530067,Qwen3-VL-4B-Instruct-4bit,22333,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,5
+1765960552322,Qwen3-VL-4B-Instruct-4bit,22252,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960574626,Qwen3-VL-4B-Instruct-4bit,22297,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960597102,Qwen3-VL-4B-Instruct-4bit,22472,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960619381,Qwen3-VL-4B-Instruct-4bit,22275,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960634888,Qwen3-VL-4B-Instruct-4bit,15504,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960650395,Qwen3-VL-4B-Instruct-4bit,15503,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960665839,Qwen3-VL-4B-Instruct-4bit,15440,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960681392,Qwen3-VL-4B-Instruct-4bit,15550,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960696805,Qwen3-VL-4B-Instruct-4bit,15409,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960712273,Qwen3-VL-4B-Instruct-4bit,15464,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960727747,Qwen3-VL-4B-Instruct-4bit,15471,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960743239,Qwen3-VL-4B-Instruct-4bit,15488,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1765960758728,Qwen3-VL-4B-Instruct-4bit,15485,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,5
+1766025797211,Qwen2.5-VL-3B-Instruct-4bit,7434,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025803420,Qwen2.5-VL-3B-Instruct-4bit,6199,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025809856,Qwen2.5-VL-3B-Instruct-4bit,6433,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025816519,Qwen2.5-VL-3B-Instruct-4bit,6662,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025823300,Qwen2.5-VL-3B-Instruct-4bit,6778,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025830225,Qwen2.5-VL-3B-Instruct-4bit,6923,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025837242,Qwen2.5-VL-3B-Instruct-4bit,7015,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025844323,Qwen2.5-VL-3B-Instruct-4bit,7079,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025851464,Qwen2.5-VL-3B-Instruct-4bit,7140,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025858751,Qwen2.5-VL-3B-Instruct-4bit,7284,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025866259,Qwen2.5-VL-3B-Instruct-4bit,7506,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025873767,Qwen2.5-VL-3B-Instruct-4bit,7505,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025881401,Qwen2.5-VL-3B-Instruct-4bit,7633,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025889082,Qwen2.5-VL-3B-Instruct-4bit,7679,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025896740,Qwen2.5-VL-3B-Instruct-4bit,7655,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025904549,Qwen2.5-VL-3B-Instruct-4bit,7808,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025912408,Qwen2.5-VL-3B-Instruct-4bit,7857,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025920254,Qwen2.5-VL-3B-Instruct-4bit,7844,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025928023,Qwen2.5-VL-3B-Instruct-4bit,7766,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025935933,Qwen2.5-VL-3B-Instruct-4bit,7909,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025943744,Qwen2.5-VL-3B-Instruct-4bit,7808,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025951742,Qwen2.5-VL-3B-Instruct-4bit,7995,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025959755,Qwen2.5-VL-3B-Instruct-4bit,8011,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025967726,Qwen2.5-VL-3B-Instruct-4bit,7969,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025975759,Qwen2.5-VL-3B-Instruct-4bit,8032,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025983742,Qwen2.5-VL-3B-Instruct-4bit,7979,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025991826,Qwen2.5-VL-3B-Instruct-4bit,8082,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,95,6
+1766025999854,Qwen2.5-VL-3B-Instruct-4bit,8024,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026008008,Qwen2.5-VL-3B-Instruct-4bit,8153,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026016082,Qwen2.5-VL-3B-Instruct-4bit,8071,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026024346,Qwen2.5-VL-3B-Instruct-4bit,8261,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026032563,Qwen2.5-VL-3B-Instruct-4bit,8215,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026040795,Qwen2.5-VL-3B-Instruct-4bit,8230,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026049082,Qwen2.5-VL-3B-Instruct-4bit,8285,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026057275,Qwen2.5-VL-3B-Instruct-4bit,8190,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026065579,Qwen2.5-VL-3B-Instruct-4bit,8301,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026073882,Qwen2.5-VL-3B-Instruct-4bit,8302,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026082227,Qwen2.5-VL-3B-Instruct-4bit,8342,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026090593,Qwen2.5-VL-3B-Instruct-4bit,8364,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026098973,Qwen2.5-VL-3B-Instruct-4bit,8378,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026107389,Qwen2.5-VL-3B-Instruct-4bit,8413,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026115694,Qwen2.5-VL-3B-Instruct-4bit,8302,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026124184,Qwen2.5-VL-3B-Instruct-4bit,8487,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026132522,Qwen2.5-VL-3B-Instruct-4bit,8335,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026141032,Qwen2.5-VL-3B-Instruct-4bit,8508,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026149613,Qwen2.5-VL-3B-Instruct-4bit,8580,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026158118,Qwen2.5-VL-3B-Instruct-4bit,8503,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026166754,Qwen2.5-VL-3B-Instruct-4bit,8635,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026175378,Qwen2.5-VL-3B-Instruct-4bit,8622,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026183853,Qwen2.5-VL-3B-Instruct-4bit,8472,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026192516,Qwen2.5-VL-3B-Instruct-4bit,8661,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026201111,Qwen2.5-VL-3B-Instruct-4bit,8594,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026209729,Qwen2.5-VL-3B-Instruct-4bit,8616,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026218418,Qwen2.5-VL-3B-Instruct-4bit,8687,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026227130,Qwen2.5-VL-3B-Instruct-4bit,8710,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026235774,Qwen2.5-VL-3B-Instruct-4bit,8642,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026244480,Qwen2.5-VL-3B-Instruct-4bit,8704,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026253141,Qwen2.5-VL-3B-Instruct-4bit,8659,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026265783,Qwen2.5-VL-3B-Instruct-4bit,12641,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026274558,Qwen2.5-VL-3B-Instruct-4bit,8771,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026283227,Qwen2.5-VL-3B-Instruct-4bit,8668,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026291987,Qwen2.5-VL-3B-Instruct-4bit,8758,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026301059,Qwen2.5-VL-3B-Instruct-4bit,9070,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026309706,Qwen2.5-VL-3B-Instruct-4bit,8643,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026318615,Qwen2.5-VL-3B-Instruct-4bit,8907,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,95,6
+1766026327566,Qwen2.5-VL-3B-Instruct-4bit,8950,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026342507,Qwen2.5-VL-3B-Instruct-4bit,14939,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026355424,Qwen2.5-VL-3B-Instruct-4bit,12914,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026364439,Qwen2.5-VL-3B-Instruct-4bit,9013,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026373333,Qwen2.5-VL-3B-Instruct-4bit,8892,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026386158,Qwen2.5-VL-3B-Instruct-4bit,12823,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026395047,Qwen2.5-VL-3B-Instruct-4bit,8886,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026404070,Qwen2.5-VL-3B-Instruct-4bit,9019,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026417014,Qwen2.5-VL-3B-Instruct-4bit,12939,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026432512,Qwen2.5-VL-3B-Instruct-4bit,15494,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026441804,Qwen2.5-VL-3B-Instruct-4bit,9287,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026450821,Qwen2.5-VL-3B-Instruct-4bit,9013,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026460035,Qwen2.5-VL-3B-Instruct-4bit,9211,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026469322,Qwen2.5-VL-3B-Instruct-4bit,9283,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026478231,Qwen2.5-VL-3B-Instruct-4bit,8906,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026493627,Qwen2.5-VL-3B-Instruct-4bit,15394,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026506965,Qwen2.5-VL-3B-Instruct-4bit,13335,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026520525,Qwen2.5-VL-3B-Instruct-4bit,13557,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026530025,Qwen2.5-VL-3B-Instruct-4bit,9496,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026539472,Qwen2.5-VL-3B-Instruct-4bit,9444,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,95,6
+1766026554788,Qwen2.5-VL-3B-Instruct-4bit,15312,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026568434,Qwen2.5-VL-3B-Instruct-4bit,13642,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026584303,Qwen2.5-VL-3B-Instruct-4bit,15866,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026598030,Qwen2.5-VL-3B-Instruct-4bit,13723,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026607549,Qwen2.5-VL-3B-Instruct-4bit,9516,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026622868,Qwen2.5-VL-3B-Instruct-4bit,15315,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026636532,Qwen2.5-VL-3B-Instruct-4bit,13660,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026650102,Qwen2.5-VL-3B-Instruct-4bit,13566,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026666467,Qwen2.5-VL-3B-Instruct-4bit,16361,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026682607,Qwen2.5-VL-3B-Instruct-4bit,16136,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026696264,Qwen2.5-VL-3B-Instruct-4bit,13653,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026712119,Qwen2.5-VL-3B-Instruct-4bit,15851,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026721821,Qwen2.5-VL-3B-Instruct-4bit,9698,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026737549,Qwen2.5-VL-3B-Instruct-4bit,15724,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026751588,Qwen2.5-VL-3B-Instruct-4bit,14034,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026766191,Qwen2.5-VL-3B-Instruct-4bit,14601,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026779774,Qwen2.5-VL-3B-Instruct-4bit,13579,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026795660,Qwen2.5-VL-3B-Instruct-4bit,15883,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026807070,Qwen2.5-VL-3B-Instruct-4bit,11406,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026816855,Qwen2.5-VL-3B-Instruct-4bit,9780,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026828559,Qwen2.5-VL-3B-Instruct-4bit,11700,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026840197,Qwen2.5-VL-3B-Instruct-4bit,11635,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026849516,Qwen2.5-VL-3B-Instruct-4bit,9313,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026859076,Qwen2.5-VL-3B-Instruct-4bit,9557,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026875184,Qwen2.5-VL-3B-Instruct-4bit,16105,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026886831,Qwen2.5-VL-3B-Instruct-4bit,11643,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026902471,Qwen2.5-VL-3B-Instruct-4bit,15637,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026912189,Qwen2.5-VL-3B-Instruct-4bit,9716,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026925968,Qwen2.5-VL-3B-Instruct-4bit,13775,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026942094,Qwen2.5-VL-3B-Instruct-4bit,16123,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026956111,Qwen2.5-VL-3B-Instruct-4bit,14013,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026965785,Qwen2.5-VL-3B-Instruct-4bit,9670,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026981587,Qwen2.5-VL-3B-Instruct-4bit,15798,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766026995427,Qwen2.5-VL-3B-Instruct-4bit,13836,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027004710,Qwen2.5-VL-3B-Instruct-4bit,9279,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027018656,Qwen2.5-VL-3B-Instruct-4bit,13943,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027035509,Qwen2.5-VL-3B-Instruct-4bit,16849,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027049540,Qwen2.5-VL-3B-Instruct-4bit,14027,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027059329,Qwen2.5-VL-3B-Instruct-4bit,9786,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027068853,Qwen2.5-VL-3B-Instruct-4bit,9519,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027085185,Qwen2.5-VL-3B-Instruct-4bit,16328,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027094807,Qwen2.5-VL-3B-Instruct-4bit,9619,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027104466,Qwen2.5-VL-3B-Instruct-4bit,9654,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027114007,Qwen2.5-VL-3B-Instruct-4bit,9536,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027128248,Qwen2.5-VL-3B-Instruct-4bit,14237,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027137845,Qwen2.5-VL-3B-Instruct-4bit,9593,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027147403,Qwen2.5-VL-3B-Instruct-4bit,9553,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027163152,Qwen2.5-VL-3B-Instruct-4bit,15745,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027172781,Qwen2.5-VL-3B-Instruct-4bit,9625,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027182379,Qwen2.5-VL-3B-Instruct-4bit,9593,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027198741,Qwen2.5-VL-3B-Instruct-4bit,16359,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027212631,Qwen2.5-VL-3B-Instruct-4bit,13886,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,90,6
+1766027226307,Qwen2.5-VL-3B-Instruct-4bit,13671,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027235870,Qwen2.5-VL-3B-Instruct-4bit,9558,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027251520,Qwen2.5-VL-3B-Instruct-4bit,15646,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027261177,Qwen2.5-VL-3B-Instruct-4bit,9654,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027277096,Qwen2.5-VL-3B-Instruct-4bit,15913,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027291039,Qwen2.5-VL-3B-Instruct-4bit,13936,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027300532,Qwen2.5-VL-3B-Instruct-4bit,9490,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027309800,Qwen2.5-VL-3B-Instruct-4bit,9266,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027321420,Qwen2.5-VL-3B-Instruct-4bit,11618,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027333102,Qwen2.5-VL-3B-Instruct-4bit,11678,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027342727,Qwen2.5-VL-3B-Instruct-4bit,9621,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027358784,Qwen2.5-VL-3B-Instruct-4bit,16052,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027370387,Qwen2.5-VL-3B-Instruct-4bit,11598,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027382093,Qwen2.5-VL-3B-Instruct-4bit,11703,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027391842,Qwen2.5-VL-3B-Instruct-4bit,9746,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027401482,Qwen2.5-VL-3B-Instruct-4bit,9635,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027415326,Qwen2.5-VL-3B-Instruct-4bit,13841,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027432237,Qwen2.5-VL-3B-Instruct-4bit,16906,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027448197,Qwen2.5-VL-3B-Instruct-4bit,15957,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027466660,Qwen2.5-VL-3B-Instruct-4bit,18460,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027476501,Qwen2.5-VL-3B-Instruct-4bit,9838,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027486065,Qwen2.5-VL-3B-Instruct-4bit,9559,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027502154,Qwen2.5-VL-3B-Instruct-4bit,16085,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027518243,Qwen2.5-VL-3B-Instruct-4bit,16085,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027527674,Qwen2.5-VL-3B-Instruct-4bit,9426,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027537347,Qwen2.5-VL-3B-Instruct-4bit,9670,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027551194,Qwen2.5-VL-3B-Instruct-4bit,13842,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027560843,Qwen2.5-VL-3B-Instruct-4bit,9646,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027574842,Qwen2.5-VL-3B-Instruct-4bit,13994,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027586511,Qwen2.5-VL-3B-Instruct-4bit,11665,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027596284,Qwen2.5-VL-3B-Instruct-4bit,9768,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027608338,Qwen2.5-VL-3B-Instruct-4bit,12049,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027618180,Qwen2.5-VL-3B-Instruct-4bit,9839,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027627789,Qwen2.5-VL-3B-Instruct-4bit,9604,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027637426,Qwen2.5-VL-3B-Instruct-4bit,9632,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027651398,Qwen2.5-VL-3B-Instruct-4bit,13967,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027668092,Qwen2.5-VL-3B-Instruct-4bit,16689,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027684578,Qwen2.5-VL-3B-Instruct-4bit,16481,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027694414,Qwen2.5-VL-3B-Instruct-4bit,9832,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027704085,Qwen2.5-VL-3B-Instruct-4bit,9667,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027713846,Qwen2.5-VL-3B-Instruct-4bit,9757,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027730101,Qwen2.5-VL-3B-Instruct-4bit,16251,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027746592,Qwen2.5-VL-3B-Instruct-4bit,16488,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027758938,Qwen2.5-VL-3B-Instruct-4bit,12343,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027775869,Qwen2.5-VL-3B-Instruct-4bit,16926,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027789936,Qwen2.5-VL-3B-Instruct-4bit,14063,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027802347,Qwen2.5-VL-3B-Instruct-4bit,12407,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027811994,Qwen2.5-VL-3B-Instruct-4bit,9644,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027828615,Qwen2.5-VL-3B-Instruct-4bit,16619,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027838405,Qwen2.5-VL-3B-Instruct-4bit,9785,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027847936,Qwen2.5-VL-3B-Instruct-4bit,9524,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027857746,Qwen2.5-VL-3B-Instruct-4bit,9808,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027874068,Qwen2.5-VL-3B-Instruct-4bit,16317,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027890530,Qwen2.5-VL-3B-Instruct-4bit,16459,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,85,6
+1766027903097,Qwen2.5-VL-3B-Instruct-4bit,12563,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027919723,Qwen2.5-VL-3B-Instruct-4bit,16621,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027932059,Qwen2.5-VL-3B-Instruct-4bit,12331,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027941945,Qwen2.5-VL-3B-Instruct-4bit,9881,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027951790,Qwen2.5-VL-3B-Instruct-4bit,9840,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027968165,Qwen2.5-VL-3B-Instruct-4bit,16370,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027978105,Qwen2.5-VL-3B-Instruct-4bit,9936,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027987943,Qwen2.5-VL-3B-Instruct-4bit,9833,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766027997777,Qwen2.5-VL-3B-Instruct-4bit,9828,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028014430,Qwen2.5-VL-3B-Instruct-4bit,16648,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028029117,Qwen2.5-VL-3B-Instruct-4bit,14682,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028048446,Qwen2.5-VL-3B-Instruct-4bit,19325,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028067458,Qwen2.5-VL-3B-Instruct-4bit,19007,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028088710,Qwen2.5-VL-3B-Instruct-4bit,21247,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028098782,Qwen2.5-VL-3B-Instruct-4bit,10068,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028115773,Qwen2.5-VL-3B-Instruct-4bit,16986,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028125812,Qwen2.5-VL-3B-Instruct-4bit,10036,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028145251,Qwen2.5-VL-3B-Instruct-4bit,19436,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028162392,Qwen2.5-VL-3B-Instruct-4bit,17137,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028179098,Qwen2.5-VL-3B-Instruct-4bit,16702,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028195942,Qwen2.5-VL-3B-Instruct-4bit,16841,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028212624,Qwen2.5-VL-3B-Instruct-4bit,16676,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028229424,Qwen2.5-VL-3B-Instruct-4bit,16795,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028246071,Qwen2.5-VL-3B-Instruct-4bit,16641,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028258564,Qwen2.5-VL-3B-Instruct-4bit,12490,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028275202,Qwen2.5-VL-3B-Instruct-4bit,16633,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028285140,Qwen2.5-VL-3B-Instruct-4bit,9933,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028294947,Qwen2.5-VL-3B-Instruct-4bit,9800,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028311738,Qwen2.5-VL-3B-Instruct-4bit,16786,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028325968,Qwen2.5-VL-3B-Instruct-4bit,14225,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028340285,Qwen2.5-VL-3B-Instruct-4bit,14312,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028355068,Qwen2.5-VL-3B-Instruct-4bit,14781,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028365021,Qwen2.5-VL-3B-Instruct-4bit,9947,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028381982,Qwen2.5-VL-3B-Instruct-4bit,16958,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028396469,Qwen2.5-VL-3B-Instruct-4bit,14484,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028410950,Qwen2.5-VL-3B-Instruct-4bit,14477,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028427855,Qwen2.5-VL-3B-Instruct-4bit,16902,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028444553,Qwen2.5-VL-3B-Instruct-4bit,16692,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028456741,Qwen2.5-VL-3B-Instruct-4bit,12183,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028473307,Qwen2.5-VL-3B-Instruct-4bit,16561,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028485664,Qwen2.5-VL-3B-Instruct-4bit,12352,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028502746,Qwen2.5-VL-3B-Instruct-4bit,17077,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028519888,Qwen2.5-VL-3B-Instruct-4bit,17138,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028536870,Qwen2.5-VL-3B-Instruct-4bit,16979,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028553595,Qwen2.5-VL-3B-Instruct-4bit,16718,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028570719,Qwen2.5-VL-3B-Instruct-4bit,17120,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028585686,Qwen2.5-VL-3B-Instruct-4bit,14963,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,80,6
+1766028603397,Qwen2.5-VL-3B-Instruct-4bit,17706,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028617756,Qwen2.5-VL-3B-Instruct-4bit,14354,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028634905,Qwen2.5-VL-3B-Instruct-4bit,17145,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028644995,Qwen2.5-VL-3B-Instruct-4bit,10084,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028655040,Qwen2.5-VL-3B-Instruct-4bit,10041,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028664975,Qwen2.5-VL-3B-Instruct-4bit,9930,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028679464,Qwen2.5-VL-3B-Instruct-4bit,14483,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028694412,Qwen2.5-VL-3B-Instruct-4bit,14943,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028704325,Qwen2.5-VL-3B-Instruct-4bit,9908,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028714276,Qwen2.5-VL-3B-Instruct-4bit,9945,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028728984,Qwen2.5-VL-3B-Instruct-4bit,14704,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028738984,Qwen2.5-VL-3B-Instruct-4bit,9994,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028749004,Qwen2.5-VL-3B-Instruct-4bit,10016,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028758894,Qwen2.5-VL-3B-Instruct-4bit,9885,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028773392,Qwen2.5-VL-3B-Instruct-4bit,14492,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028788052,Qwen2.5-VL-3B-Instruct-4bit,14654,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028802473,Qwen2.5-VL-3B-Instruct-4bit,14418,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028819401,Qwen2.5-VL-3B-Instruct-4bit,16923,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028834056,Qwen2.5-VL-3B-Instruct-4bit,14649,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028843984,Qwen2.5-VL-3B-Instruct-4bit,9922,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028856363,Qwen2.5-VL-3B-Instruct-4bit,12373,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028873195,Qwen2.5-VL-3B-Instruct-4bit,16826,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028890255,Qwen2.5-VL-3B-Instruct-4bit,17056,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028902577,Qwen2.5-VL-3B-Instruct-4bit,12318,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028912629,Qwen2.5-VL-3B-Instruct-4bit,10048,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028922624,Qwen2.5-VL-3B-Instruct-4bit,9990,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028939484,Qwen2.5-VL-3B-Instruct-4bit,16855,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028949169,Qwen2.5-VL-3B-Instruct-4bit,9679,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028963889,Qwen2.5-VL-3B-Instruct-4bit,14718,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028978631,Qwen2.5-VL-3B-Instruct-4bit,14739,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028988593,Qwen2.5-VL-3B-Instruct-4bit,9956,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766028998553,Qwen2.5-VL-3B-Instruct-4bit,9955,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029008425,Qwen2.5-VL-3B-Instruct-4bit,9865,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029018365,Qwen2.5-VL-3B-Instruct-4bit,9935,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029028221,Qwen2.5-VL-3B-Instruct-4bit,9850,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029042581,Qwen2.5-VL-3B-Instruct-4bit,14354,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029052617,Qwen2.5-VL-3B-Instruct-4bit,10033,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029067293,Qwen2.5-VL-3B-Instruct-4bit,14672,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029076931,Qwen2.5-VL-3B-Instruct-4bit,9633,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029089543,Qwen2.5-VL-3B-Instruct-4bit,12609,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029099407,Qwen2.5-VL-3B-Instruct-4bit,9858,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029109292,Qwen2.5-VL-3B-Instruct-4bit,9879,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029119158,Qwen2.5-VL-3B-Instruct-4bit,9860,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029133606,Qwen2.5-VL-3B-Instruct-4bit,14442,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029143525,Qwen2.5-VL-3B-Instruct-4bit,9914,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029153353,Qwen2.5-VL-3B-Instruct-4bit,9823,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029163293,Qwen2.5-VL-3B-Instruct-4bit,9936,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029179750,Qwen2.5-VL-3B-Instruct-4bit,16452,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029192190,Qwen2.5-VL-3B-Instruct-4bit,12436,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029204174,Qwen2.5-VL-3B-Instruct-4bit,11978,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029214147,Qwen2.5-VL-3B-Instruct-4bit,9970,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029230630,Qwen2.5-VL-3B-Instruct-4bit,16478,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029240567,Qwen2.5-VL-3B-Instruct-4bit,9932,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029250380,Qwen2.5-VL-3B-Instruct-4bit,9807,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029267005,Qwen2.5-VL-3B-Instruct-4bit,16618,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029276520,Qwen2.5-VL-3B-Instruct-4bit,9509,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029286066,Qwen2.5-VL-3B-Instruct-4bit,9542,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029300274,Qwen2.5-VL-3B-Instruct-4bit,14205,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,6
+1766029309936,Qwen2.5-VL-3B-Instruct-4bit,9657,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766029319810,Qwen2.5-VL-3B-Instruct-4bit,9872,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766029329580,Qwen2.5-VL-3B-Instruct-4bit,9764,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766029339341,Qwen2.5-VL-3B-Instruct-4bit,9755,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766029353833,Qwen2.5-VL-3B-Instruct-4bit,14486,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766029370417,Qwen2.5-VL-3B-Instruct-4bit,16577,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766029379914,Qwen2.5-VL-3B-Instruct-4bit,9491,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766029396294,Qwen2.5-VL-3B-Instruct-4bit,16375,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,6
+1766030369983,Qwen2-VL-2B-Instruct-4bit,3717,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030373659,Qwen2-VL-2B-Instruct-4bit,3665,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030377907,Qwen2-VL-2B-Instruct-4bit,4245,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030381798,Qwen2-VL-2B-Instruct-4bit,3887,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030385746,Qwen2-VL-2B-Instruct-4bit,3945,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030390276,Qwen2-VL-2B-Instruct-4bit,4527,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030398549,Qwen2-VL-2B-Instruct-4bit,8270,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030403952,Qwen2-VL-2B-Instruct-4bit,5400,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030408908,Qwen2-VL-2B-Instruct-4bit,4955,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030413280,Qwen2-VL-2B-Instruct-4bit,4369,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030417589,Qwen2-VL-2B-Instruct-4bit,4305,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,75,7
+1766030421947,Qwen2-VL-2B-Instruct-4bit,4355,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030428442,Qwen2-VL-2B-Instruct-4bit,6492,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030433382,Qwen2-VL-2B-Instruct-4bit,4937,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030437900,Qwen2-VL-2B-Instruct-4bit,4515,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030442480,Qwen2-VL-2B-Instruct-4bit,4576,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030447087,Qwen2-VL-2B-Instruct-4bit,4604,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030451729,Qwen2-VL-2B-Instruct-4bit,4639,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030456886,Qwen2-VL-2B-Instruct-4bit,5154,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030462846,Qwen2-VL-2B-Instruct-4bit,5956,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030468590,Qwen2-VL-2B-Instruct-4bit,5742,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030473760,Qwen2-VL-2B-Instruct-4bit,5168,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030495788,Qwen2-VL-2B-Instruct-4bit,22026,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030501287,Qwen2-VL-2B-Instruct-4bit,5496,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030508462,Qwen2-VL-2B-Instruct-4bit,7171,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030513623,Qwen2-VL-2B-Instruct-4bit,5158,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030518365,Qwen2-VL-2B-Instruct-4bit,4739,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030523132,Qwen2-VL-2B-Instruct-4bit,4764,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030529176,Qwen2-VL-2B-Instruct-4bit,6040,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030534418,Qwen2-VL-2B-Instruct-4bit,5238,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030539698,Qwen2-VL-2B-Instruct-4bit,5277,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030544828,Qwen2-VL-2B-Instruct-4bit,5127,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030549615,Qwen2-VL-2B-Instruct-4bit,4784,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030554901,Qwen2-VL-2B-Instruct-4bit,5282,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030560086,Qwen2-VL-2B-Instruct-4bit,5183,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030566181,Qwen2-VL-2B-Instruct-4bit,6091,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030571971,Qwen2-VL-2B-Instruct-4bit,5787,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030578464,Qwen2-VL-2B-Instruct-4bit,6490,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030584256,Qwen2-VL-2B-Instruct-4bit,5788,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030592111,Qwen2-VL-2B-Instruct-4bit,7853,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030597306,Qwen2-VL-2B-Instruct-4bit,5192,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030620968,Qwen2-VL-2B-Instruct-4bit,23659,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,75,7
+1766030627085,Qwen2-VL-2B-Instruct-4bit,6114,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030632493,Qwen2-VL-2B-Instruct-4bit,5404,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030638028,Qwen2-VL-2B-Instruct-4bit,5532,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030643550,Qwen2-VL-2B-Instruct-4bit,5520,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030648619,Qwen2-VL-2B-Instruct-4bit,5066,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030653713,Qwen2-VL-2B-Instruct-4bit,5088,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030658797,Qwen2-VL-2B-Instruct-4bit,5079,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030663887,Qwen2-VL-2B-Instruct-4bit,5087,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030669044,Qwen2-VL-2B-Instruct-4bit,5152,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030674944,Qwen2-VL-2B-Instruct-4bit,5897,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030680489,Qwen2-VL-2B-Instruct-4bit,5542,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030687197,Qwen2-VL-2B-Instruct-4bit,6704,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030694655,Qwen2-VL-2B-Instruct-4bit,7455,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030700828,Qwen2-VL-2B-Instruct-4bit,6170,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030706472,Qwen2-VL-2B-Instruct-4bit,5642,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030713254,Qwen2-VL-2B-Instruct-4bit,6779,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030720367,Qwen2-VL-2B-Instruct-4bit,7111,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030728330,Qwen2-VL-2B-Instruct-4bit,7961,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030736619,Qwen2-VL-2B-Instruct-4bit,8287,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030746729,Qwen2-VL-2B-Instruct-4bit,10107,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030754138,Qwen2-VL-2B-Instruct-4bit,7406,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030759761,Qwen2-VL-2B-Instruct-4bit,5617,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030768658,Qwen2-VL-2B-Instruct-4bit,8894,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030776823,Qwen2-VL-2B-Instruct-4bit,8161,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030782499,Qwen2-VL-2B-Instruct-4bit,5673,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030791278,Qwen2-VL-2B-Instruct-4bit,8775,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030818615,Qwen2-VL-2B-Instruct-4bit,27335,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030827565,Qwen2-VL-2B-Instruct-4bit,8944,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030833302,Qwen2-VL-2B-Instruct-4bit,5735,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030838619,Qwen2-VL-2B-Instruct-4bit,5312,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030844475,Qwen2-VL-2B-Instruct-4bit,5852,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030871650,Qwen2-VL-2B-Instruct-4bit,27172,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030879321,Qwen2-VL-2B-Instruct-4bit,7668,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030885601,Qwen2-VL-2B-Instruct-4bit,6278,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030891450,Qwen2-VL-2B-Instruct-4bit,5847,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030918056,Qwen2-VL-2B-Instruct-4bit,26602,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030925250,Qwen2-VL-2B-Instruct-4bit,7191,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030931519,Qwen2-VL-2B-Instruct-4bit,6266,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030939128,Qwen2-VL-2B-Instruct-4bit,7606,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030945370,Qwen2-VL-2B-Instruct-4bit,6239,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030952649,Qwen2-VL-2B-Instruct-4bit,7277,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030961121,Qwen2-VL-2B-Instruct-4bit,8470,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030987960,Qwen2-VL-2B-Instruct-4bit,26835,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030993600,Qwen2-VL-2B-Instruct-4bit,5637,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766030998962,Qwen2-VL-2B-Instruct-4bit,5358,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031026229,Qwen2-VL-2B-Instruct-4bit,27263,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031032758,Qwen2-VL-2B-Instruct-4bit,6526,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031038545,Qwen2-VL-2B-Instruct-4bit,5782,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031066008,Qwen2-VL-2B-Instruct-4bit,27459,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031073813,Qwen2-VL-2B-Instruct-4bit,7802,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031080074,Qwen2-VL-2B-Instruct-4bit,6257,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031089366,Qwen2-VL-2B-Instruct-4bit,9290,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031096636,Qwen2-VL-2B-Instruct-4bit,7268,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031107955,Qwen2-VL-2B-Instruct-4bit,11314,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031115467,Qwen2-VL-2B-Instruct-4bit,7509,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031124936,Qwen2-VL-2B-Instruct-4bit,9465,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031153036,Qwen2-VL-2B-Instruct-4bit,28097,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031159331,Qwen2-VL-2B-Instruct-4bit,6292,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031170116,Qwen2-VL-2B-Instruct-4bit,10783,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031175864,Qwen2-VL-2B-Instruct-4bit,5745,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031181302,Qwen2-VL-2B-Instruct-4bit,5433,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031189628,Qwen2-VL-2B-Instruct-4bit,8323,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031197438,Qwen2-VL-2B-Instruct-4bit,7807,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031203197,Qwen2-VL-2B-Instruct-4bit,5753,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031210250,Qwen2-VL-2B-Instruct-4bit,7048,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031219206,Qwen2-VL-2B-Instruct-4bit,8953,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031225660,Qwen2-VL-2B-Instruct-4bit,6450,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031232351,Qwen2-VL-2B-Instruct-4bit,6688,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,75,7
+1766031238704,Qwen2-VL-2B-Instruct-4bit,6349,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031245472,Qwen2-VL-2B-Instruct-4bit,6765,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031251343,Qwen2-VL-2B-Instruct-4bit,5867,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031258059,Qwen2-VL-2B-Instruct-4bit,6712,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031263977,Qwen2-VL-2B-Instruct-4bit,5914,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031269374,Qwen2-VL-2B-Instruct-4bit,5392,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031278491,Qwen2-VL-2B-Instruct-4bit,9113,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031286078,Qwen2-VL-2B-Instruct-4bit,7584,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031300190,Qwen2-VL-2B-Instruct-4bit,14110,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031309545,Qwen2-VL-2B-Instruct-4bit,9352,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031315182,Qwen2-VL-2B-Instruct-4bit,5633,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031320596,Qwen2-VL-2B-Instruct-4bit,5409,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031326004,Qwen2-VL-2B-Instruct-4bit,5404,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031332970,Qwen2-VL-2B-Instruct-4bit,6962,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031339459,Qwen2-VL-2B-Instruct-4bit,6485,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031346205,Qwen2-VL-2B-Instruct-4bit,6744,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031353813,Qwen2-VL-2B-Instruct-4bit,7603,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031359686,Qwen2-VL-2B-Instruct-4bit,5870,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031365864,Qwen2-VL-2B-Instruct-4bit,6175,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031371843,Qwen2-VL-2B-Instruct-4bit,5976,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031378849,Qwen2-VL-2B-Instruct-4bit,7002,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031384783,Qwen2-VL-2B-Instruct-4bit,5931,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031393091,Qwen2-VL-2B-Instruct-4bit,8303,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031421537,Qwen2-VL-2B-Instruct-4bit,28443,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031427284,Qwen2-VL-2B-Instruct-4bit,5743,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031434607,Qwen2-VL-2B-Instruct-4bit,7319,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031442489,Qwen2-VL-2B-Instruct-4bit,7876,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031449182,Qwen2-VL-2B-Instruct-4bit,6690,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031455566,Qwen2-VL-2B-Instruct-4bit,6379,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031465281,Qwen2-VL-2B-Instruct-4bit,9713,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031471785,Qwen2-VL-2B-Instruct-4bit,6500,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031479483,Qwen2-VL-2B-Instruct-4bit,7694,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031487709,Qwen2-VL-2B-Instruct-4bit,8219,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031494232,Qwen2-VL-2B-Instruct-4bit,6520,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031500916,Qwen2-VL-2B-Instruct-4bit,6678,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031507475,Qwen2-VL-2B-Instruct-4bit,6556,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031514302,Qwen2-VL-2B-Instruct-4bit,6825,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031520928,Qwen2-VL-2B-Instruct-4bit,6621,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031527532,Qwen2-VL-2B-Instruct-4bit,6597,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031535274,Qwen2-VL-2B-Instruct-4bit,7738,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031545632,Qwen2-VL-2B-Instruct-4bit,10353,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031552168,Qwen2-VL-2B-Instruct-4bit,6529,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031558806,Qwen2-VL-2B-Instruct-4bit,6633,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031565679,Qwen2-VL-2B-Instruct-4bit,6871,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031573387,Qwen2-VL-2B-Instruct-4bit,7703,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031580082,Qwen2-VL-2B-Instruct-4bit,6690,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031589731,Qwen2-VL-2B-Instruct-4bit,9645,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031596296,Qwen2-VL-2B-Instruct-4bit,6561,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031612008,Qwen2-VL-2B-Instruct-4bit,15709,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031618640,Qwen2-VL-2B-Instruct-4bit,6629,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031625574,Qwen2-VL-2B-Instruct-4bit,6931,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031632273,Qwen2-VL-2B-Instruct-4bit,6695,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031639215,Qwen2-VL-2B-Instruct-4bit,6940,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031645951,Qwen2-VL-2B-Instruct-4bit,6732,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031655938,Qwen2-VL-2B-Instruct-4bit,9980,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031662532,Qwen2-VL-2B-Instruct-4bit,6590,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031672532,Qwen2-VL-2B-Instruct-4bit,9995,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031678462,Qwen2-VL-2B-Instruct-4bit,5927,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031686966,Qwen2-VL-2B-Instruct-4bit,8499,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031694678,Qwen2-VL-2B-Instruct-4bit,7709,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031701416,Qwen2-VL-2B-Instruct-4bit,6733,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031711158,Qwen2-VL-2B-Instruct-4bit,9737,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031718826,Qwen2-VL-2B-Instruct-4bit,7664,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031725519,Qwen2-VL-2B-Instruct-4bit,6687,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031733566,Qwen2-VL-2B-Instruct-4bit,8042,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031740253,Qwen2-VL-2B-Instruct-4bit,6682,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031769731,Qwen2-VL-2B-Instruct-4bit,29473,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031778904,Qwen2-VL-2B-Instruct-4bit,9169,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031786810,Qwen2-VL-2B-Instruct-4bit,7902,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031793576,Qwen2-VL-2B-Instruct-4bit,6760,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031802962,Qwen2-VL-2B-Instruct-4bit,9383,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031808754,Qwen2-VL-2B-Instruct-4bit,5787,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031814347,Qwen2-VL-2B-Instruct-4bit,5588,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031822361,Qwen2-VL-2B-Instruct-4bit,8010,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031831242,Qwen2-VL-2B-Instruct-4bit,8877,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031839036,Qwen2-VL-2B-Instruct-4bit,7791,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031846820,Qwen2-VL-2B-Instruct-4bit,7780,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031852859,Qwen2-VL-2B-Instruct-4bit,6034,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031859285,Qwen2-VL-2B-Instruct-4bit,6421,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031867033,Qwen2-VL-2B-Instruct-4bit,7743,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031877542,Qwen2-VL-2B-Instruct-4bit,10505,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031884170,Qwen2-VL-2B-Instruct-4bit,6623,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031892217,Qwen2-VL-2B-Instruct-4bit,8045,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,70,7
+1766031921796,Qwen2-VL-2B-Instruct-4bit,29574,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766031928476,Qwen2-VL-2B-Instruct-4bit,6677,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766031935232,Qwen2-VL-2B-Instruct-4bit,6751,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766031943084,Qwen2-VL-2B-Instruct-4bit,7846,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766031973044,Qwen2-VL-2B-Instruct-4bit,29956,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766031981257,Qwen2-VL-2B-Instruct-4bit,8207,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766031992237,Qwen2-VL-2B-Instruct-4bit,10976,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032003237,Qwen2-VL-2B-Instruct-4bit,10996,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032012488,Qwen2-VL-2B-Instruct-4bit,9247,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032024268,Qwen2-VL-2B-Instruct-4bit,11776,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032032602,Qwen2-VL-2B-Instruct-4bit,8330,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032040485,Qwen2-VL-2B-Instruct-4bit,7879,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032048948,Qwen2-VL-2B-Instruct-4bit,8458,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032056813,Qwen2-VL-2B-Instruct-4bit,7861,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032066915,Qwen2-VL-2B-Instruct-4bit,10099,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032072935,Qwen2-VL-2B-Instruct-4bit,6017,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032083608,Qwen2-VL-2B-Instruct-4bit,10669,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032092388,Qwen2-VL-2B-Instruct-4bit,8777,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032100759,Qwen2-VL-2B-Instruct-4bit,8367,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032108629,Qwen2-VL-2B-Instruct-4bit,7866,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032117142,Qwen2-VL-2B-Instruct-4bit,8508,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032123154,Qwen2-VL-2B-Instruct-4bit,6008,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032131004,Qwen2-VL-2B-Instruct-4bit,7845,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032137807,Qwen2-VL-2B-Instruct-4bit,6798,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032144108,Qwen2-VL-2B-Instruct-4bit,6299,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032149778,Qwen2-VL-2B-Instruct-4bit,5664,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032157397,Qwen2-VL-2B-Instruct-4bit,7615,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032164352,Qwen2-VL-2B-Instruct-4bit,6952,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032172306,Qwen2-VL-2B-Instruct-4bit,7949,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032179232,Qwen2-VL-2B-Instruct-4bit,6922,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032186375,Qwen2-VL-2B-Instruct-4bit,7141,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032193243,Qwen2-VL-2B-Instruct-4bit,6862,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032201394,Qwen2-VL-2B-Instruct-4bit,8148,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032209936,Qwen2-VL-2B-Instruct-4bit,8537,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032217711,Qwen2-VL-2B-Instruct-4bit,7770,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032223843,Qwen2-VL-2B-Instruct-4bit,6127,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032229551,Qwen2-VL-2B-Instruct-4bit,5703,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032236042,Qwen2-VL-2B-Instruct-4bit,6487,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032266864,Qwen2-VL-2B-Instruct-4bit,30819,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032273555,Qwen2-VL-2B-Instruct-4bit,6685,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032280503,Qwen2-VL-2B-Instruct-4bit,6943,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032287442,Qwen2-VL-2B-Instruct-4bit,6934,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032294607,Qwen2-VL-2B-Instruct-4bit,7162,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032301547,Qwen2-VL-2B-Instruct-4bit,6933,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032307680,Qwen2-VL-2B-Instruct-4bit,6128,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032317785,Qwen2-VL-2B-Instruct-4bit,10101,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032348197,Qwen2-VL-2B-Instruct-4bit,30406,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032354136,Qwen2-VL-2B-Instruct-4bit,5933,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032360669,Qwen2-VL-2B-Instruct-4bit,6529,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032367682,Qwen2-VL-2B-Instruct-4bit,7006,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032373822,Qwen2-VL-2B-Instruct-4bit,6134,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032383058,Qwen2-VL-2B-Instruct-4bit,9232,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032413652,Qwen2-VL-2B-Instruct-4bit,30590,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032422213,Qwen2-VL-2B-Instruct-4bit,8557,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032428328,Qwen2-VL-2B-Instruct-4bit,6113,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032434074,Qwen2-VL-2B-Instruct-4bit,5739,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032444139,Qwen2-VL-2B-Instruct-4bit,10062,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032452010,Qwen2-VL-2B-Instruct-4bit,7866,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032460064,Qwen2-VL-2B-Instruct-4bit,8049,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032467050,Qwen2-VL-2B-Instruct-4bit,6981,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032477818,Qwen2-VL-2B-Instruct-4bit,10765,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032509409,Qwen2-VL-2B-Instruct-4bit,31586,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032515246,Qwen2-VL-2B-Instruct-4bit,5833,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032545806,Qwen2-VL-2B-Instruct-4bit,30555,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032557068,Qwen2-VL-2B-Instruct-4bit,11257,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032566299,Qwen2-VL-2B-Instruct-4bit,9226,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032574877,Qwen2-VL-2B-Instruct-4bit,8572,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032582678,Qwen2-VL-2B-Instruct-4bit,7795,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,65,7
+1766032591341,Qwen2-VL-2B-Instruct-4bit,8658,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032598216,Qwen2-VL-2B-Instruct-4bit,6872,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032605163,Qwen2-VL-2B-Instruct-4bit,6941,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032611338,Qwen2-VL-2B-Instruct-4bit,6170,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032621294,Qwen2-VL-2B-Instruct-4bit,9950,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032630314,Qwen2-VL-2B-Instruct-4bit,9017,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032660649,Qwen2-VL-2B-Instruct-4bit,30332,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032666626,Qwen2-VL-2B-Instruct-4bit,5973,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032672366,Qwen2-VL-2B-Instruct-4bit,5735,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032678867,Qwen2-VL-2B-Instruct-4bit,6496,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032685721,Qwen2-VL-2B-Instruct-4bit,6849,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032692613,Qwen2-VL-2B-Instruct-4bit,6886,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032700581,Qwen2-VL-2B-Instruct-4bit,7960,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032706604,Qwen2-VL-2B-Instruct-4bit,6018,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032713033,Qwen2-VL-2B-Instruct-4bit,6423,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032723419,Qwen2-VL-2B-Instruct-4bit,10381,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032729257,Qwen2-VL-2B-Instruct-4bit,5832,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032739140,Qwen2-VL-2B-Instruct-4bit,9878,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032744962,Qwen2-VL-2B-Instruct-4bit,5814,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032753002,Qwen2-VL-2B-Instruct-4bit,8035,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032760713,Qwen2-VL-2B-Instruct-4bit,7705,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032767458,Qwen2-VL-2B-Instruct-4bit,6740,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032775960,Qwen2-VL-2B-Instruct-4bit,8496,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032783463,Qwen2-VL-2B-Instruct-4bit,7499,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032790293,Qwen2-VL-2B-Instruct-4bit,6824,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032798349,Qwen2-VL-2B-Instruct-4bit,8053,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032806700,Qwen2-VL-2B-Instruct-4bit,8346,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032814975,Qwen2-VL-2B-Instruct-4bit,8270,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032824046,Qwen2-VL-2B-Instruct-4bit,9065,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032829992,Qwen2-VL-2B-Instruct-4bit,5943,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032837700,Qwen2-VL-2B-Instruct-4bit,7702,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032843565,Qwen2-VL-2B-Instruct-4bit,5859,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032853126,Qwen2-VL-2B-Instruct-4bit,9556,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032859832,Qwen2-VL-2B-Instruct-4bit,6703,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032865748,Qwen2-VL-2B-Instruct-4bit,5910,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032873120,Qwen2-VL-2B-Instruct-4bit,7367,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032880853,Qwen2-VL-2B-Instruct-4bit,7726,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032890750,Qwen2-VL-2B-Instruct-4bit,9890,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032897325,Qwen2-VL-2B-Instruct-4bit,6569,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032905115,Qwen2-VL-2B-Instruct-4bit,7784,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032911005,Qwen2-VL-2B-Instruct-4bit,5884,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032916540,Qwen2-VL-2B-Instruct-4bit,5529,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766032926057,Qwen2-VL-2B-Instruct-4bit,9511,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,60,7
+1766035159375,gemma3_4B_qat_4bit,47909,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,60,8
+1766035218701,gemma3_4B_qat_4bit,59314,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,0,60,8
+1766035279299,gemma3_4B_qat_4bit,60596,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,60,8
+1766035341103,gemma3_4B_qat_4bit,61801,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,60,8
+1766035403854,gemma3_4B_qat_4bit,62748,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,60,8
+1766035467729,gemma3_4B_qat_4bit,63872,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,60,8
+1766035531606,gemma3_4B_qat_4bit,63874,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,60,8
+1766035596498,gemma3_4B_qat_4bit,64890,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,1,55,8
+1766035665610,gemma3_4B_qat_4bit,69108,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766035736146,gemma3_4B_qat_4bit,70534,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766035808846,gemma3_4B_qat_4bit,72696,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766035882583,gemma3_4B_qat_4bit,73734,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766035957205,gemma3_4B_qat_4bit,74619,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766036031704,gemma3_4B_qat_4bit,74496,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766036106891,gemma3_4B_qat_4bit,75183,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766036185319,gemma3_4B_qat_4bit,78425,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,55,8
+1766036261184,gemma3_4B_qat_4bit,75863,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036337148,gemma3_4B_qat_4bit,75962,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036412000,gemma3_4B_qat_4bit,74849,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036486609,gemma3_4B_qat_4bit,74606,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036562436,gemma3_4B_qat_4bit,75824,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036638668,gemma3_4B_qat_4bit,76229,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036715732,gemma3_4B_qat_4bit,77062,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036793528,gemma3_4B_qat_4bit,77793,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,50,8
+1766036871780,gemma3_4B_qat_4bit,78249,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766036950272,gemma3_4B_qat_4bit,78488,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766037029307,gemma3_4B_qat_4bit,79032,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766037109034,gemma3_4B_qat_4bit,79724,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766037189337,gemma3_4B_qat_4bit,80300,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766037268887,gemma3_4B_qat_4bit,79548,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766037349457,gemma3_4B_qat_4bit,80567,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766037429902,gemma3_4B_qat_4bit,80443,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,45,8
+1766037510922,gemma3_4B_qat_4bit,81017,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,8
+1766037591815,gemma3_4B_qat_4bit,80889,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,8
+1766037673183,gemma3_4B_qat_4bit,81365,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,8
+1766037754878,gemma3_4B_qat_4bit,81692,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,8
+1766037836512,gemma3_4B_qat_4bit,81631,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,8
+1766037918621,gemma3_4B_qat_4bit,82105,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,8
+1766038000621,gemma3_4B_qat_4bit,81998,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,40,8
+1766038082533,gemma3_4B_qat_4bit,81908,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038163814,gemma3_4B_qat_4bit,81279,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038244176,gemma3_4B_qat_4bit,80359,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038324612,gemma3_4B_qat_4bit,80433,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038404733,gemma3_4B_qat_4bit,80117,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038485250,gemma3_4B_qat_4bit,80514,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038565950,gemma3_4B_qat_4bit,80696,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038646940,gemma3_4B_qat_4bit,80987,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,35,8
+1766038727587,gemma3_4B_qat_4bit,80644,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,8
+1766038808287,gemma3_4B_qat_4bit,80697,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,8
+1766038889102,gemma3_4B_qat_4bit,80812,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,8
+1766038970619,gemma3_4B_qat_4bit,81514,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,8
+1766039051803,gemma3_4B_qat_4bit,81179,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,8
+1766039132986,gemma3_4B_qat_4bit,81179,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,8
+1766039214096,gemma3_4B_qat_4bit,81107,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,30,8
+1766039295864,gemma3_4B_qat_4bit,81765,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039377012,gemma3_4B_qat_4bit,81145,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039459068,gemma3_4B_qat_4bit,82052,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039541177,gemma3_4B_qat_4bit,82107,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039623456,gemma3_4B_qat_4bit,82276,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039706144,gemma3_4B_qat_4bit,82685,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039789210,gemma3_4B_qat_4bit,83063,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039872261,gemma3_4B_qat_4bit,83049,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,25,8
+1766039955679,gemma3_4B_qat_4bit,83415,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040039381,gemma3_4B_qat_4bit,83700,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040122871,gemma3_4B_qat_4bit,83487,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040206902,gemma3_4B_qat_4bit,84027,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040290939,gemma3_4B_qat_4bit,84035,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040374714,gemma3_4B_qat_4bit,83771,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040458799,gemma3_4B_qat_4bit,84082,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040543129,gemma3_4B_qat_4bit,84327,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,20,8
+1766040627790,gemma3_4B_qat_4bit,84657,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,15,8
+1766040712534,gemma3_4B_qat_4bit,84742,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,15,8
+1766040797135,gemma3_4B_qat_4bit,84597,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,15,8
+1766040881778,gemma3_4B_qat_4bit,84640,"iPhone18,2",Version 1.0 (Build 1),,testing by HDSVN,2,15,8
